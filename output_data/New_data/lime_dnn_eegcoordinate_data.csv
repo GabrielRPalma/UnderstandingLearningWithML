@@ -1,0 +1,860 @@
+,Features,"Local 
+ Importance",Class,Trial
+0,-0.86 < dis_sum <= 0.13,-0.16187040333408242,Control,Trial 1
+1,average_speed <= -0.56,-0.05352050556135431,Control,Trial 1
+2,idle_time > 0.07,-0.05277292031966455,Control,Trial 1
+3,angle_sum <= -0.72,0.04903939336951847,Experiment,Trial 1
+4,-21.84 < MM_Hess <= -2.62,0.03206896193546805,Experiment,Trial 1
+5,0.01 < hmm5_sd.3 <= 0.02,-0.017477495837203778,Control,Trial 1
+6,MM_Intercept > 0.37,0.013531114998856134,Experiment,Trial 1
+7,hmm5_sd.2 > 0.03,0.012927133230632647,Experiment,Trial 1
+8,0.12 < hmm5_mean.4 <= 0.20,-0.012886503059659656,Control,Trial 1
+9,0.01 < hmm5_sd.1 <= 0.01,0.01196493600146558,Experiment,Trial 1
+10,hmm5_p3 > 0.22,0.010316272064011364,Experiment,Trial 1
+11,0.16 < hmm5_p1 <= 0.20,-0.009743911447178719,Control,Trial 1
+12,hmm5_sd.4 > 0.02,0.00852287630050006,Experiment,Trial 1
+13,0.21 < hmm5_p2 <= 0.25,-0.008341508994974092,Control,Trial 1
+14,0.01 < hmm5_sd.5 <= 0.01,-0.006749259026963107,Control,Trial 1
+15,0.19 < hmm5_mean.1 <= 0.31,-0.00493961853045499,Control,Trial 1
+16,hmm5_mean.2 > 0.28,-0.004801919159126138,Control,Trial 1
+17,hmm5_mean.5 > 0.25,0.003731461096721816,Experiment,Trial 1
+18,hmm5_mean.3 > 0.24,0.00274750179909506,Experiment,Trial 1
+19,-0.00 < average_peak_curvature <= -0.00,-0.0013311710086036073,Control,Trial 1
+20,0.27 < average_peak_magnitude <= 0.93,0.000422833244226561,Experiment,Trial 1
+21,hmm5_p4 <= 0.17,4.148088631316196e-05,Experiment,Trial 1
+22,0.07 < dis_sum <= 0.29,-0.32438137610972084,Control,Trial 1
+23,MM_Hess <= -20.66,-0.3012374128574222,Control,Trial 1
+24,average_peak_magnitude > 0.89,-0.055740282062821146,Control,Trial 1
+25,-0.18 < average_speed <= 0.18,-0.050100663408819225,Control,Trial 1
+26,hmm5_sd.3 > 0.02,-0.02895418678461397,Control,Trial 1
+27,hmm5_p4 <= 0.17,-0.02461567242281428,Control,Trial 1
+28,hmm5_mean.3 > 0.24,0.023343600805912797,Experiment,Trial 1
+29,0.01 < hmm5_sd.2 <= 0.02,-0.01454730232440208,Control,Trial 1
+30,-0.82 < angle_sum <= -0.05,0.01345976212957456,Experiment,Trial 1
+31,hmm5_mean.1 > 0.30,-0.013018193408374963,Control,Trial 1
+32,hmm5_sd.4 > 0.02,0.01069043816875709,Experiment,Trial 1
+33,0.12 < hmm5_mean.4 <= 0.20,0.007611952513352952,Experiment,Trial 1
+34,average_peak_curvature <= -0.00,-0.005780350729690145,Control,Trial 1
+35,hmm5_mean.5 > 0.25,-0.004461192205242275,Control,Trial 1
+36,0.19 < hmm5_p2 <= 0.22,0.00440183383946305,Experiment,Trial 1
+37,hmm5_p1 <= 0.17,-0.003516280827183116,Control,Trial 1
+38,0.01 < hmm5_sd.5 <= 0.02,0.0029854535185728,Experiment,Trial 1
+39,0.19 < hmm5_mean.2 <= 0.29,0.0027200852309026643,Experiment,Trial 1
+40,-0.67 < idle_time <= -0.33,0.0020888461590321383,Experiment,Trial 1
+41,MM_Intercept > 0.38,-0.0008657162793642068,Control,Trial 1
+42,hmm5_sd.1 > 0.03,-9.21990669820497e-05,Control,Trial 1
+43,hmm5_p3 > 0.22,1.7726344935665994e-05,Experiment,Trial 1
+44,0.07 < dis_sum <= 0.29,-0.22720438711077043,Control,Trial 1
+45,MM_Hess > 16.26,0.14777905495702595,Experiment,Trial 1
+46,-0.63 < average_speed <= -0.13,-0.08360869493865826,Control,Trial 1
+47,0.03 < average_peak_magnitude <= 0.31,0.03750650420651664,Experiment,Trial 1
+48,hmm5_mean.3 > 0.24,-0.02355156155187384,Control,Trial 1
+49,hmm5_p2 <= 0.19,-0.01781376126492857,Control,Trial 1
+50,hmm5_p1 > 0.22,-0.015749597380631256,Control,Trial 1
+51,hmm5_sd.3 > 0.02,-0.010948944392431215,Control,Trial 1
+52,MM_Intercept <= -0.16,0.010190482754732966,Experiment,Trial 1
+53,0.01 < hmm5_sd.2 <= 0.02,0.009727915456583816,Experiment,Trial 1
+54,0.19 < hmm5_mean.1 <= 0.31,0.00952760157188565,Experiment,Trial 1
+55,0.12 < hmm5_mean.4 <= 0.20,0.009467371251570876,Experiment,Trial 1
+56,hmm5_sd.4 <= 0.01,-0.009383301550836633,Control,Trial 1
+57,-0.00 < average_peak_curvature <= -0.00,-0.009350931859565524,Control,Trial 1
+58,hmm5_mean.2 <= 0.16,0.009171821296731341,Experiment,Trial 1
+59,0.15 < hmm5_p3 <= 0.20,0.005986056943626594,Experiment,Trial 1
+60,0.01 < hmm5_sd.1 <= 0.03,0.0032365730416002826,Experiment,Trial 1
+61,-0.42 < idle_time <= 0.15,-0.002754519757438438,Control,Trial 1
+62,0.21 < hmm5_p4 <= 0.23,-0.0026255269272596297,Control,Trial 1
+63,hmm5_sd.5 <= 0.01,-0.0017315116850688582,Control,Trial 1
+64,0.12 < hmm5_mean.5 <= 0.19,0.0014351087563224004,Experiment,Trial 1
+65,-0.81 < angle_sum <= -0.05,-0.0003179893681118548,Control,Trial 1
+66,-3.17 < MM_Hess <= 18.21,-0.18730511700895325,Control,Trial 1
+67,0.07 < dis_sum <= 0.29,-0.04054795273934882,Control,Trial 1
+68,-0.18 < average_speed <= 0.18,-0.020262194183841675,Control,Trial 1
+69,0.03 < average_peak_magnitude <= 0.31,0.01779920038371558,Experiment,Trial 1
+70,angle_sum > 0.51,0.01728545273975351,Experiment,Trial 1
+71,0.12 < hmm5_mean.4 <= 0.20,0.015678085180038263,Experiment,Trial 1
+72,0.01 < MM_Intercept <= 0.38,-0.01109208058025821,Control,Trial 1
+73,hmm5_sd.4 <= 0.01,0.010075839256786233,Experiment,Trial 1
+74,average_peak_curvature > -0.00,0.00965176986601521,Experiment,Trial 1
+75,0.01 < hmm5_sd.1 <= 0.01,0.006376313672832923,Experiment,Trial 1
+76,0.21 < hmm5_p4 <= 0.23,-0.005893830385136668,Control,Trial 1
+77,hmm5_mean.2 > 0.28,0.005647341597450077,Experiment,Trial 1
+78,-0.42 < idle_time <= 0.15,0.004816352539721116,Experiment,Trial 1
+79,0.20 < hmm5_p3 <= 0.23,0.004232737820255021,Experiment,Trial 1
+80,0.14 < hmm5_mean.1 <= 0.20,-0.0033528463444330203,Control,Trial 1
+81,0.01 < hmm5_sd.5 <= 0.02,0.0028177244669655523,Experiment,Trial 1
+82,0.01 < hmm5_sd.3 <= 0.01,-0.0025518120269812073,Control,Trial 1
+83,0.16 < hmm5_p1 <= 0.20,0.002486328811579145,Experiment,Trial 1
+84,0.19 < hmm5_p2 <= 0.22,0.002004478874825264,Experiment,Trial 1
+85,hmm5_sd.2 > 0.03,0.0013475122937580903,Experiment,Trial 1
+86,hmm5_mean.5 <= 0.13,0.0005017919895932069,Experiment,Trial 1
+87,0.20 < hmm5_mean.3 <= 0.26,0.00030173231510982135,Experiment,Trial 1
+88,-0.86 < dis_sum <= 0.13,-0.24344099930925958,Control,Trial 1
+89,-0.63 < average_speed <= -0.13,-0.08991594902087295,Control,Trial 1
+90,average_peak_magnitude > 0.89,-0.07946185464271341,Control,Trial 1
+91,hmm5_mean.1 > 0.30,-0.0445645763765274,Control,Trial 1
+92,idle_time > 0.07,-0.03300894641075323,Control,Trial 1
+93,hmm5_sd.3 > 0.02,0.021161401615942547,Experiment,Trial 1
+94,average_peak_curvature <= -0.00,-0.01779477030000028,Control,Trial 1
+95,hmm5_p2 > 0.24,0.015850171305852926,Experiment,Trial 1
+96,hmm5_sd.2 > 0.03,-0.013872627876250718,Control,Trial 1
+97,angle_sum > 0.51,-0.013383876740653814,Control,Trial 1
+98,0.18 < hmm5_mean.5 <= 0.25,-0.010350102006273657,Control,Trial 1
+99,hmm5_p1 > 0.22,-0.008188242302524665,Control,Trial 1
+100,0.01 < hmm5_sd.5 <= 0.01,-0.007960855842897163,Control,Trial 1
+101,0.01 < hmm5_sd.1 <= 0.03,-0.007507605356094187,Control,Trial 1
+102,0.01 < hmm5_sd.4 <= 0.02,0.007163822754225964,Experiment,Trial 1
+103,0.12 < hmm5_mean.3 <= 0.21,0.004970099484133885,Experiment,Trial 1
+104,hmm5_mean.4 > 0.28,0.0045185163946739985,Experiment,Trial 1
+105,hmm5_mean.2 > 0.28,0.003913883852187862,Experiment,Trial 1
+106,hmm5_p4 > 0.23,0.0038996468041269422,Experiment,Trial 1
+107,MM_Intercept > 0.37,-0.0025141376088638873,Control,Trial 1
+108,MM_Hess <= -20.66,-0.0020195344262573904,Control,Trial 1
+109,hmm5_p3 <= 0.16,-6.68997451940166e-05,Control,Trial 1
+110,average_speed > 0.17,0.12528464148446994,Experiment,Trial 1
+111,dis_sum > 0.28,0.07385287495265601,Experiment,Trial 1
+112,idle_time <= -0.65,0.040189402231379456,Experiment,Trial 1
+113,MM_Hess > 16.26,-0.02187172102684941,Control,Trial 1
+114,0.03 < average_peak_magnitude <= 0.29,0.021805729922701075,Experiment,Trial 1
+115,0.19 < hmm5_mean.2 <= 0.29,0.019150836494376905,Experiment,Trial 1
+116,0.01 < hmm5_sd.5 <= 0.02,-0.017013714111298085,Control,Trial 1
+117,0.20 < hmm5_p1 <= 0.23,-0.013307642680665066,Control,Trial 1
+118,0.01 < hmm5_sd.2 <= 0.02,0.012805528665395144,Experiment,Trial 1
+119,hmm5_mean.5 <= 0.13,0.012054099097652813,Experiment,Trial 1
+120,average_peak_curvature <= -0.00,-0.01198095607019842,Control,Trial 1
+121,0.19 < hmm5_p2 <= 0.22,-0.011334988850876894,Control,Trial 1
+122,0.20 < hmm5_p3 <= 0.23,-0.01060367786568654,Control,Trial 1
+123,0.12 < hmm5_mean.3 <= 0.21,0.010426138499305466,Experiment,Trial 1
+124,hmm5_mean.1 > 0.30,-0.009636930092608369,Control,Trial 1
+125,-0.05 < angle_sum <= 0.56,0.009346503874411978,Experiment,Trial 1
+126,hmm5_sd.4 <= 0.01,0.005091588025519005,Experiment,Trial 1
+127,0.17 < hmm5_p4 <= 0.21,-0.0042851474178088505,Control,Trial 1
+128,0.12 < hmm5_mean.4 <= 0.20,0.0033274740715154845,Experiment,Trial 1
+129,-0.18 < MM_Intercept <= 0.03,0.001719844913133542,Experiment,Trial 1
+130,0.01 < hmm5_sd.3 <= 0.01,0.0009232553769510926,Experiment,Trial 1
+131,hmm5_sd.1 > 0.03,1.0773928610732765e-05,Experiment,Trial 1
+132,average_speed <= -0.56,-0.2119399460243158,Control,Trial 1
+133,MM_Hess <= -20.66,0.11981272442619735,Experiment,Trial 1
+134,average_peak_magnitude > 0.89,-0.06445823067886351,Control,Trial 1
+135,MM_Intercept > 0.37,0.045861729716430405,Experiment,Trial 1
+136,idle_time > 0.07,-0.03520407625856857,Control,Trial 1
+137,hmm5_p2 > 0.24,-0.02313148248340922,Control,Trial 1
+138,-0.05 < angle_sum <= 0.56,-0.022259315865918013,Control,Trial 1
+139,-0.86 < dis_sum <= 0.13,0.018919266000596135,Experiment,Trial 1
+140,hmm5_mean.4 > 0.28,-0.01881516040173129,Control,Trial 1
+141,0.01 < hmm5_sd.4 <= 0.02,0.017187930862716486,Experiment,Trial 1
+142,0.17 < hmm5_p4 <= 0.21,0.014563974595887657,Experiment,Trial 1
+143,hmm5_mean.2 > 0.29,-0.013374048053340243,Control,Trial 1
+144,hmm5_mean.1 > 0.30,-0.012822600526921843,Control,Trial 1
+145,0.01 < hmm5_sd.1 <= 0.03,0.012226210515997597,Experiment,Trial 1
+146,0.15 < hmm5_p3 <= 0.20,0.006079578176481815,Experiment,Trial 1
+147,hmm5_sd.5 > 0.02,0.006021725574122357,Experiment,Trial 1
+148,0.01 < hmm5_sd.3 <= 0.01,-0.005535835652959741,Control,Trial 1
+149,average_peak_curvature <= -0.00,-0.004901735162352158,Control,Trial 1
+150,hmm5_sd.2 > 0.03,-0.0044725053709294875,Control,Trial 1
+151,hmm5_mean.3 > 0.24,-0.001441206080571875,Control,Trial 1
+152,hmm5_mean.5 > 0.25,0.0005844597379553539,Experiment,Trial 1
+153,0.16 < hmm5_p1 <= 0.20,-0.00027446913504610814,Control,Trial 1
+154,0.07 < dis_sum <= 0.29,-0.3406749782049947,Control,Trial 1
+155,angle_sum <= -0.72,0.07133693504677867,Experiment,Trial 1
+156,-0.18 < average_speed <= 0.18,-0.051228647793278806,Control,Trial 1
+157,-0.67 < idle_time <= -0.33,0.028901804301924537,Experiment,Trial 1
+158,0.00 < MM_Intercept <= 0.38,0.022112918134228568,Experiment,Trial 1
+159,hmm5_mean.5 <= 0.13,0.016887555722858664,Experiment,Trial 1
+160,0.01 < hmm5_sd.2 <= 0.02,-0.016515808394124767,Control,Trial 1
+161,-3.17 < MM_Hess <= 18.21,0.013670066005086311,Experiment,Trial 1
+162,hmm5_sd.4 > 0.02,0.013451124251379329,Experiment,Trial 1
+163,hmm5_p2 <= 0.19,0.01345090076118323,Experiment,Trial 1
+164,hmm5_p3 > 0.22,-0.011717298147621619,Control,Trial 1
+165,0.15 < hmm5_mean.2 <= 0.20,0.010511979007232285,Experiment,Trial 1
+166,0.21 < hmm5_p4 <= 0.23,-0.008828546132050412,Control,Trial 1
+167,0.27 < average_peak_magnitude <= 0.94,-0.008549770268241535,Control,Trial 1
+168,0.01 < hmm5_sd.3 <= 0.02,-0.0075684904408581735,Control,Trial 1
+169,0.20 < hmm5_mean.3 <= 0.26,-0.006762684886577263,Control,Trial 1
+170,0.16 < hmm5_p1 <= 0.20,-0.006202952108795256,Control,Trial 1
+171,0.14 < hmm5_mean.1 <= 0.20,0.0061271949949484455,Experiment,Trial 1
+172,0.01 < hmm5_sd.1 <= 0.01,-0.0031063253903723794,Control,Trial 1
+173,-0.00 < average_peak_curvature <= -0.00,-0.0010049072727399922,Control,Trial 1
+174,hmm5_mean.4 > 0.28,0.0009398467396109162,Experiment,Trial 1
+175,0.01 < hmm5_sd.5 <= 0.02,-0.0001139934630280217,Control,Trial 1
+176,MM_Hess <= -20.66,0.2929463104715158,Experiment,Trial 1
+177,dis_sum > 0.28,-0.06314768184234631,Control,Trial 1
+178,-0.18 < average_speed <= 0.18,-0.0254692616736172,Control,Trial 1
+179,hmm5_mean.1 > 0.30,-0.023113139556606082,Control,Trial 1
+180,hmm5_mean.4 <= 0.14,0.022498309899835738,Experiment,Trial 1
+181,0.15 < hmm5_mean.2 <= 0.20,0.020615333942474817,Experiment,Trial 1
+182,hmm5_p3 > 0.22,-0.019337141519165452,Control,Trial 1
+183,hmm5_sd.1 > 0.03,-0.015140166028607936,Control,Trial 1
+184,-0.05 < angle_sum <= 0.56,-0.012592017365201725,Control,Trial 1
+185,hmm5_sd.2 <= 0.01,-0.011233426993227696,Control,Trial 1
+186,hmm5_mean.5 > 0.25,-0.0104477340986509,Control,Trial 1
+187,0.01 < hmm5_sd.4 <= 0.02,0.0061653936112882396,Experiment,Trial 1
+188,0.19 < hmm5_p2 <= 0.22,-0.006006695882369413,Control,Trial 1
+189,0.01 < hmm5_sd.3 <= 0.02,0.005541024357340507,Experiment,Trial 1
+190,-0.00 < average_peak_curvature <= -0.00,-0.0054943027611688835,Control,Trial 1
+191,0.00 < MM_Intercept <= 0.38,0.0050285314256098826,Experiment,Trial 1
+192,idle_time <= -0.65,-0.004948843310188441,Control,Trial 1
+193,0.27 < average_peak_magnitude <= 0.94,0.0032505857148872595,Experiment,Trial 1
+194,hmm5_p4 <= 0.17,0.0022367111402329548,Experiment,Trial 1
+195,hmm5_sd.5 > 0.02,0.0018114410136940344,Experiment,Trial 1
+196,hmm5_p1 <= 0.17,-0.0017302983740706942,Control,Trial 1
+197,0.20 < hmm5_mean.3 <= 0.26,-0.00024057884708596268,Control,Trial 1
+198,-0.83 < dis_sum <= 0.13,-0.3173621951037185,Control,Trial 1
+199,-0.18 < average_speed <= 0.18,-0.12608438987664658,Control,Trial 1
+200,-3.05 < MM_Hess <= 18.21,0.0550020048614984,Experiment,Trial 1
+201,0.02 < hmm5_sd.2 <= 0.03,0.041496058947396074,Experiment,Trial 1
+202,average_peak_magnitude > 0.89,-0.03749747573179564,Control,Trial 1
+203,idle_time > 0.07,0.034808424777484324,Experiment,Trial 1
+204,hmm5_p4 <= 0.17,0.02278688975249759,Experiment,Trial 1
+205,0.01 < hmm5_sd.5 <= 0.02,0.022096492580950918,Experiment,Trial 1
+206,MM_Intercept > 0.37,0.020563714849385933,Experiment,Trial 1
+207,0.19 < hmm5_mean.2 <= 0.29,-0.019582205896477658,Control,Trial 1
+208,average_peak_curvature <= -0.00,0.019402513309922164,Experiment,Trial 1
+209,hmm5_sd.3 > 0.02,-0.017463744414697314,Control,Trial 1
+210,hmm5_p1 <= 0.17,0.016187508534164584,Experiment,Trial 1
+211,hmm5_mean.1 > 0.30,-0.013753397567655213,Control,Trial 1
+212,hmm5_mean.3 > 0.24,-0.013348589773177705,Control,Trial 1
+213,hmm5_sd.1 > 0.03,0.011055763861279723,Experiment,Trial 1
+214,hmm5_sd.4 > 0.02,-0.009991239126595662,Control,Trial 1
+215,hmm5_mean.5 > 0.25,-0.008950420940921014,Control,Trial 1
+216,-0.05 < angle_sum <= 0.56,-0.004703711907461552,Control,Trial 1
+217,hmm5_p3 > 0.22,-0.003461722978230762,Control,Trial 1
+218,0.19 < hmm5_mean.4 <= 0.28,-0.001124326642593218,Control,Trial 1
+219,hmm5_p2 <= 0.19,-0.00038446084760662696,Control,Trial 1
+220,MM_Hess <= -20.66,0.5183890990842362,Experiment,Trial 1
+221,0.07 < dis_sum <= 0.29,-0.22886995863678605,Control,Trial 1
+222,average_peak_magnitude <= 0.04,0.16542830474011133,Experiment,Trial 1
+223,-0.63 < average_speed <= -0.13,-0.060983634732099494,Control,Trial 1
+224,hmm5_mean.3 <= 0.13,0.03384654628318368,Experiment,Trial 1
+225,hmm5_mean.4 <= 0.14,-0.033693965697206896,Control,Trial 1
+226,0.21 < hmm5_p2 <= 0.25,-0.030515089909566313,Control,Trial 1
+227,hmm5_mean.2 > 0.28,-0.028690784414195727,Control,Trial 1
+228,-0.00 < average_peak_curvature <= -0.00,0.024581420630772257,Experiment,Trial 1
+229,-0.67 < idle_time <= -0.33,0.023379778362632428,Experiment,Trial 1
+230,0.14 < hmm5_mean.1 <= 0.20,0.023019763317993987,Experiment,Trial 1
+231,MM_Intercept <= -0.16,0.019762738055689285,Experiment,Trial 1
+232,0.20 < hmm5_p1 <= 0.23,-0.01537993749248449,Control,Trial 1
+233,0.01 < hmm5_sd.5 <= 0.02,0.01232567936181971,Experiment,Trial 1
+234,0.01 < hmm5_sd.1 <= 0.01,0.011473000393917503,Experiment,Trial 1
+235,-0.05 < angle_sum <= 0.56,-0.010687583648026603,Control,Trial 1
+236,0.01 < hmm5_sd.3 <= 0.01,-0.009870497690735048,Control,Trial 1
+237,0.15 < hmm5_p3 <= 0.20,-0.00812658815139249,Control,Trial 1
+238,hmm5_sd.2 > 0.03,0.006417616917268422,Experiment,Trial 1
+239,0.18 < hmm5_mean.5 <= 0.26,-0.005672339607483418,Control,Trial 1
+240,0.17 < hmm5_p4 <= 0.21,-0.005065615250327014,Control,Trial 1
+241,0.01 < hmm5_sd.4 <= 0.02,-0.0032215613263263665,Control,Trial 1
+242,dis_sum > 0.28,0.03301346308273173,Experiment,Trial 1
+243,-3.17 < MM_Hess <= 18.21,0.01713772499554252,Experiment,Trial 1
+244,average_peak_magnitude <= 0.04,0.01571126854719059,Experiment,Trial 1
+245,angle_sum > 0.51,0.014593339934270675,Experiment,Trial 1
+246,hmm5_p4 > 0.23,0.011454184966065291,Experiment,Trial 1
+247,-0.00 < average_peak_curvature <= -0.00,0.009634956596046875,Experiment,Trial 1
+248,0.19 < hmm5_mean.2 <= 0.29,0.008965249693305595,Experiment,Trial 1
+249,0.15 < hmm5_p3 <= 0.20,-0.007700377880326561,Control,Trial 1
+250,-0.18 < average_speed <= 0.18,0.007229949509456148,Experiment,Trial 1
+251,0.01 < hmm5_sd.5 <= 0.02,-0.007082683628091616,Control,Trial 1
+252,0.19 < hmm5_mean.1 <= 0.30,0.0067317002372762535,Experiment,Trial 1
+253,0.01 < hmm5_sd.2 <= 0.02,0.005182246039985667,Experiment,Trial 1
+254,0.16 < hmm5_p1 <= 0.20,-0.00445413340663691,Control,Trial 1
+255,0.01 < hmm5_sd.4 <= 0.02,-0.00301772615109234,Control,Trial 1
+256,idle_time <= -0.65,-0.002859171169860231,Control,Trial 1
+257,hmm5_p2 <= 0.19,-0.0023702670713696616,Control,Trial 1
+258,0.12 < hmm5_mean.4 <= 0.20,0.0023671322144756058,Experiment,Trial 1
+259,0.01 < hmm5_sd.3 <= 0.01,0.0012351314572908426,Experiment,Trial 1
+260,-0.18 < MM_Intercept <= 0.03,-0.001181524936057863,Control,Trial 1
+261,hmm5_mean.5 <= 0.13,0.0009988707990095747,Experiment,Trial 1
+262,hmm5_sd.1 > 0.03,-0.0008799361893858586,Control,Trial 1
+263,0.12 < hmm5_mean.3 <= 0.21,-0.0006659580090940503,Control,Trial 1
+264,0.10 < dis_sum <= 0.29,-0.38316675567138303,Control,Trial 1
+265,average_speed <= -0.60,-0.07699925137569696,Control,Trial 1
+266,average_peak_magnitude > 0.89,-0.06409675065197737,Control,Trial 1
+267,-21.84 < MM_Hess <= -2.62,0.049212134158376414,Experiment,Trial 1
+268,0.21 < hmm5_p2 <= 0.25,-0.02259977188960294,Control,Trial 1
+269,0.01 < hmm5_sd.5 <= 0.01,0.01649867544540114,Experiment,Trial 1
+270,hmm5_p1 <= 0.17,-0.01537702367533349,Control,Trial 1
+271,0.21 < hmm5_p4 <= 0.23,-0.014864699610607308,Control,Trial 1
+272,-0.42 < idle_time <= 0.13,-0.01441557177130264,Control,Trial 1
+273,0.20 < hmm5_p3 <= 0.23,-0.012891666339550441,Control,Trial 1
+274,-0.00 < average_peak_curvature <= -0.00,0.010217533730114619,Experiment,Trial 1
+275,0.01 < hmm5_sd.4 <= 0.02,0.009122136804188392,Experiment,Trial 1
+276,MM_Intercept > 0.37,0.007564432374941142,Experiment,Trial 1
+277,0.18 < hmm5_mean.5 <= 0.26,-0.007367115579666261,Control,Trial 1
+278,hmm5_mean.1 > 0.30,-0.006846958075081572,Control,Trial 1
+279,hmm5_sd.3 > 0.02,0.0028688956425260885,Experiment,Trial 1
+280,hmm5_mean.4 > 0.28,-0.0023939696486363986,Control,Trial 1
+281,-0.82 < angle_sum <= -0.05,0.002352543043980004,Experiment,Trial 1
+282,0.02 < hmm5_sd.2 <= 0.03,-0.0019973339748394917,Control,Trial 1
+283,hmm5_mean.2 > 0.28,0.0018723293096482361,Experiment,Trial 1
+284,hmm5_sd.1 > 0.03,0.001797737240079625,Experiment,Trial 1
+285,0.12 < hmm5_mean.3 <= 0.21,4.297456328788496e-05,Experiment,Trial 1
+286,-0.86 < dis_sum <= 0.13,-0.312041054074617,Control,Trial 1
+287,-21.84 < MM_Hess <= -2.62,0.09470103840962121,Experiment,Trial 1
+288,average_peak_magnitude <= 0.04,0.08366974250150122,Experiment,Trial 1
+289,-0.63 < average_speed <= -0.13,-0.06405771629825359,Control,Trial 1
+290,hmm5_p3 <= 0.16,-0.025693617524804594,Control,Trial 1
+291,hmm5_mean.1 <= 0.15,0.01902548811564994,Experiment,Trial 1
+292,-0.00 < average_peak_curvature <= -0.00,0.016555625809276334,Experiment,Trial 1
+293,hmm5_p4 <= 0.17,-0.016113071681217537,Control,Trial 1
+294,MM_Intercept <= -0.16,0.014211666065438828,Experiment,Trial 1
+295,idle_time > 0.07,-0.013879792704944011,Control,Trial 1
+296,-0.82 < angle_sum <= -0.05,-0.012637379832479635,Control,Trial 1
+297,0.21 < hmm5_p2 <= 0.25,0.01115841724778768,Experiment,Trial 1
+298,hmm5_sd.3 > 0.02,-0.008669888486370758,Control,Trial 1
+299,0.01 < hmm5_sd.5 <= 0.02,-0.005654448889937373,Control,Trial 1
+300,hmm5_mean.2 <= 0.16,0.005276018751109904,Experiment,Trial 1
+301,0.01 < hmm5_sd.4 <= 0.02,0.004311139295976047,Experiment,Trial 1
+302,hmm5_sd.1 <= 0.01,0.003881791348071823,Experiment,Trial 1
+303,0.19 < hmm5_mean.5 <= 0.26,0.0037536954901273034,Experiment,Trial 1
+304,hmm5_mean.3 > 0.24,-0.003669903190059143,Control,Trial 1
+305,hmm5_p1 > 0.22,-0.0033339898505452326,Control,Trial 1
+306,hmm5_mean.4 <= 0.14,0.0009697914400158366,Experiment,Trial 1
+307,hmm5_sd.2 <= 0.01,0.000255854280918793,Experiment,Trial 1
+308,MM_Hess > 16.26,-0.30651281508637024,Control,Trial 1
+309,0.07 < dis_sum <= 0.29,-0.23012020443025397,Control,Trial 1
+310,average_peak_magnitude <= 0.04,0.08472198705166023,Experiment,Trial 1
+311,-0.63 < average_speed <= -0.13,-0.06782546455351954,Control,Trial 1
+312,angle_sum > 0.51,0.06738773388459623,Experiment,Trial 1
+313,MM_Intercept <= -0.16,-0.038276034625372185,Control,Trial 1
+314,0.17 < hmm5_p4 <= 0.21,-0.029881888520924646,Control,Trial 1
+315,-0.67 < idle_time <= -0.33,0.022972013416873754,Experiment,Trial 1
+316,hmm5_sd.2 <= 0.01,-0.022908486586915272,Control,Trial 1
+317,hmm5_sd.1 <= 0.01,0.01994536498314222,Experiment,Trial 1
+318,hmm5_mean.1 <= 0.15,0.018076586638675753,Experiment,Trial 1
+319,0.12 < hmm5_mean.4 <= 0.20,0.012754179057514334,Experiment,Trial 1
+320,0.18 < hmm5_mean.5 <= 0.26,-0.010887207325279437,Control,Trial 1
+321,hmm5_sd.4 <= 0.01,-0.009010156299357159,Control,Trial 1
+322,hmm5_sd.3 <= 0.01,0.006867455225572885,Experiment,Trial 1
+323,hmm5_mean.2 <= 0.16,-0.006065427713256957,Control,Trial 1
+324,hmm5_mean.3 <= 0.13,-0.004719996631091386,Control,Trial 1
+325,hmm5_p1 > 0.22,-0.004304709646104043,Control,Trial 1
+326,hmm5_sd.5 > 0.02,-0.00425776180792525,Control,Trial 1
+327,0.15 < hmm5_p3 <= 0.20,0.0035318410827241756,Experiment,Trial 1
+328,0.19 < hmm5_p2 <= 0.22,0.003378600709976965,Experiment,Trial 1
+329,average_peak_curvature > -0.00,-0.000976179786241413,Control,Trial 1
+330,average_speed <= -0.56,-0.09505631475631592,Control,Trial 1
+331,-21.84 < MM_Hess <= -2.62,0.07681585006221117,Experiment,Trial 1
+332,idle_time > 0.07,-0.026603620157352965,Control,Trial 1
+333,hmm5_sd.1 > 0.03,-0.02352963718074413,Control,Trial 1
+334,hmm5_sd.5 <= 0.01,-0.02124072418054432,Control,Trial 1
+335,hmm5_p1 > 0.22,-0.01800337029210844,Control,Trial 1
+336,-0.86 < dis_sum <= 0.13,-0.016158041775550993,Control,Trial 1
+337,-0.00 < average_peak_curvature <= -0.00,0.01394282091614933,Experiment,Trial 1
+338,hmm5_p4 > 0.23,0.010360117210913585,Experiment,Trial 1
+339,0.01 < hmm5_sd.4 <= 0.02,-0.01025357399634555,Control,Trial 1
+340,0.18 < hmm5_mean.5 <= 0.26,0.009182398399895283,Experiment,Trial 1
+341,MM_Intercept > 0.37,-0.008848171114314953,Control,Trial 1
+342,-0.82 < angle_sum <= -0.05,-0.0072652750963759114,Control,Trial 1
+343,0.20 < hmm5_mean.3 <= 0.26,0.006827359893561937,Experiment,Trial 1
+344,0.27 < average_peak_magnitude <= 0.94,-0.006674724653894384,Control,Trial 1
+345,0.01 < hmm5_sd.3 <= 0.01,0.0063952883962203454,Experiment,Trial 1
+346,hmm5_mean.2 <= 0.15,0.005606887380505111,Experiment,Trial 1
+347,hmm5_mean.4 > 0.28,-0.005167313651637027,Control,Trial 1
+348,hmm5_p3 <= 0.16,-0.004287534358428338,Control,Trial 1
+349,hmm5_mean.1 > 0.30,-0.0022584515259946743,Control,Trial 1
+350,hmm5_p2 <= 0.19,-0.0019025811361866912,Control,Trial 1
+351,0.02 < hmm5_sd.2 <= 0.03,-0.0003388930726041898,Control,Trial 1
+352,0.07 < dis_sum <= 0.29,-0.32752051624281764,Control,Trial 1
+353,average_peak_magnitude > 0.89,-0.08295374257432593,Control,Trial 1
+354,-0.18 < average_speed <= 0.18,-0.06807499427342142,Control,Trial 1
+355,-21.65 < MM_Hess <= -2.62,0.03538343541905508,Experiment,Trial 1
+356,0.20 < hmm5_mean.3 <= 0.26,0.012493674402921899,Experiment,Trial 1
+357,hmm5_p1 <= 0.17,-0.010860578501653378,Control,Trial 1
+358,hmm5_sd.5 > 0.02,-0.010059608973546911,Control,Trial 1
+359,0.01 < hmm5_sd.4 <= 0.02,0.009508435907445557,Experiment,Trial 1
+360,0.00 < MM_Intercept <= 0.38,0.0091981683380651,Experiment,Trial 1
+361,0.19 < hmm5_mean.2 <= 0.29,0.008521269924132189,Experiment,Trial 1
+362,0.14 < hmm5_mean.1 <= 0.20,0.007826926302957645,Experiment,Trial 1
+363,average_peak_curvature <= -0.00,0.006463801827244698,Experiment,Trial 1
+364,hmm5_sd.1 > 0.03,-0.005733642522193457,Control,Trial 1
+365,-0.05 < angle_sum <= 0.56,-0.004481388943776828,Control,Trial 1
+366,0.15 < hmm5_p3 <= 0.20,0.0035034888858334213,Experiment,Trial 1
+367,-0.67 < idle_time <= -0.33,-0.0027426729923246376,Control,Trial 1
+368,hmm5_sd.2 <= 0.01,-0.002265864147953897,Control,Trial 1
+369,0.21 < hmm5_p2 <= 0.25,-0.0019819209522066385,Control,Trial 1
+370,0.21 < hmm5_p4 <= 0.23,-0.0019461433852138266,Control,Trial 1
+371,hmm5_mean.4 > 0.28,-0.00186291631365392,Control,Trial 1
+372,hmm5_mean.5 > 0.25,-0.0018401719767661068,Control,Trial 1
+373,0.01 < hmm5_sd.3 <= 0.01,-0.0018002570323102415,Control,Trial 1
+374,dis_sum <= -0.69,0.3467048945065762,Experiment,Trial 1
+375,average_speed > 0.17,0.22479646207443837,Experiment,Trial 1
+376,-3.17 < MM_Hess <= 18.21,0.1308738280033317,Experiment,Trial 1
+377,0.00 < MM_Intercept <= 0.38,0.02849159238885413,Experiment,Trial 1
+378,0.01 < hmm5_sd.2 <= 0.02,-0.02648416273482701,Control,Trial 1
+379,hmm5_p3 > 0.22,-0.023731568479245724,Control,Trial 1
+380,angle_sum <= -0.72,0.019209387207849645,Experiment,Trial 1
+381,0.19 < hmm5_mean.2 <= 0.29,0.01602712042785934,Experiment,Trial 1
+382,0.27 < average_peak_magnitude <= 0.94,-0.01430845683551601,Control,Trial 1
+383,hmm5_sd.3 > 0.02,-0.012721789701162091,Control,Trial 1
+384,0.20 < hmm5_p1 <= 0.23,-0.011808230209587905,Control,Trial 1
+385,-0.00 < average_peak_curvature <= -0.00,0.010642776549981244,Experiment,Trial 1
+386,0.14 < hmm5_mean.1 <= 0.20,-0.010433211806416244,Control,Trial 1
+387,hmm5_mean.5 <= 0.13,-0.00951336301406576,Control,Trial 1
+388,0.17 < hmm5_p4 <= 0.21,-0.009183106710830218,Control,Trial 1
+389,hmm5_sd.5 > 0.02,-0.00913533343679905,Control,Trial 1
+390,0.01 < hmm5_sd.1 <= 0.01,-0.00905376060353837,Control,Trial 1
+391,0.21 < hmm5_p2 <= 0.25,-0.008854861771321198,Control,Trial 1
+392,0.19 < hmm5_mean.4 <= 0.28,0.008255707548204781,Experiment,Trial 1
+393,-0.67 < idle_time <= -0.33,0.006181766101266246,Experiment,Trial 1
+394,0.01 < hmm5_sd.4 <= 0.02,-0.0038792704245910557,Control,Trial 1
+395,hmm5_mean.3 > 0.24,0.0025897728744654633,Experiment,Trial 1
+396,-0.86 < dis_sum <= 0.13,-0.22822844960341332,Control,Trial 1
+397,average_speed > 0.17,0.1562969275554354,Experiment,Trial 1
+398,average_peak_magnitude > 0.89,-0.07692243396222084,Control,Trial 1
+399,MM_Hess <= -20.66,-0.07106094982472068,Control,Trial 1
+400,hmm5_p4 > 0.23,0.027375440388075385,Experiment,Trial 1
+401,0.15 < hmm5_p3 <= 0.20,0.026925865898450786,Experiment,Trial 1
+402,hmm5_mean.2 <= 0.16,-0.023853608817025067,Control,Trial 1
+403,angle_sum > 0.53,-0.022112889655133038,Control,Trial 1
+404,idle_time <= -0.65,0.019094553258625396,Experiment,Trial 1
+405,0.19 < hmm5_mean.4 <= 0.28,0.014640219855281867,Experiment,Trial 1
+406,0.19 < hmm5_p2 <= 0.22,0.0129396143562035,Experiment,Trial 1
+407,hmm5_mean.3 > 0.24,-0.010948448185929998,Control,Trial 1
+408,average_peak_curvature <= -0.00,-0.010780175641530125,Control,Trial 1
+409,0.20 < hmm5_p1 <= 0.23,-0.010087335619294962,Control,Trial 1
+410,0.01 < hmm5_sd.1 <= 0.03,0.006355238859247044,Experiment,Trial 1
+411,MM_Intercept > 0.37,0.00632924088019071,Experiment,Trial 1
+412,hmm5_sd.5 > 0.02,0.005590639276211902,Experiment,Trial 1
+413,0.01 < hmm5_sd.4 <= 0.02,-0.0026944888501837507,Control,Trial 1
+414,0.19 < hmm5_mean.1 <= 0.31,0.00095815405753739,Experiment,Trial 1
+415,hmm5_sd.3 > 0.02,0.0004739907635601564,Experiment,Trial 1
+416,0.02 < hmm5_sd.2 <= 0.03,-0.0003163634520105665,Control,Trial 1
+417,hmm5_mean.5 > 0.25,-1.9749132739915803e-05,Control,Trial 1
+418,dis_sum > 0.28,0.10578547155875134,Experiment,Trial 1
+419,-0.17 < average_speed <= 0.18,-0.0719027002908532,Control,Trial 1
+420,average_peak_magnitude > 0.89,-0.05097874670003051,Control,Trial 1
+421,hmm5_mean.1 > 0.30,-0.04063602202648608,Control,Trial 1
+422,angle_sum > 0.51,-0.035010156648972286,Control,Trial 1
+423,hmm5_mean.3 > 0.24,-0.0270539399686905,Control,Trial 1
+424,0.15 < hmm5_p3 <= 0.20,0.024274133486716237,Experiment,Trial 1
+425,0.01 < hmm5_sd.4 <= 0.02,-0.022451149675883887,Control,Trial 1
+426,hmm5_sd.2 > 0.03,0.02152562598964971,Experiment,Trial 1
+427,hmm5_sd.1 > 0.03,0.010119085300390237,Experiment,Trial 1
+428,MM_Intercept > 0.37,0.009472684086391108,Experiment,Trial 1
+429,average_peak_curvature <= -0.00,0.007772798974144519,Experiment,Trial 1
+430,0.01 < hmm5_sd.3 <= 0.02,0.007569391399361719,Experiment,Trial 1
+431,0.17 < hmm5_p4 <= 0.21,-0.007076563249436891,Control,Trial 1
+432,hmm5_mean.5 > 0.25,0.004784236902152368,Experiment,Trial 1
+433,0.19 < hmm5_mean.2 <= 0.29,-0.003871155703354945,Control,Trial 1
+434,hmm5_sd.5 > 0.02,0.003228807678619185,Experiment,Trial 1
+435,0.19 < hmm5_mean.4 <= 0.28,0.0022636804290737888,Experiment,Trial 1
+436,0.16 < hmm5_p1 <= 0.20,0.0017144033521334387,Experiment,Trial 1
+437,hmm5_p2 <= 0.19,-0.0015434780415216197,Control,Trial 1
+438,idle_time <= -0.65,0.0012124340247895325,Experiment,Trial 1
+439,-21.84 < MM_Hess <= -2.62,0.0009794269131669076,Experiment,Trial 1
+440,dis_sum <= -0.69,0.46726960193806283,Experiment,Trial 1
+441,-3.17 < MM_Hess <= 18.21,0.19211871565536542,Experiment,Trial 1
+442,average_speed <= -0.56,-0.13323516011332065,Control,Trial 1
+443,0.03 < average_peak_magnitude <= 0.31,0.03335057403821465,Experiment,Trial 1
+444,angle_sum <= -0.72,0.02862063911600136,Experiment,Trial 1
+445,0.12 < hmm5_mean.4 <= 0.20,0.02824304667569642,Experiment,Trial 1
+446,hmm5_sd.4 <= 0.01,-0.02338736336957281,Control,Trial 1
+447,hmm5_mean.3 > 0.24,-0.022218623901275287,Control,Trial 1
+448,hmm5_sd.5 <= 0.01,0.02146662206266401,Experiment,Trial 1
+449,0.01 < hmm5_sd.1 <= 0.01,0.020921870071210644,Experiment,Trial 1
+450,hmm5_sd.3 > 0.02,-0.015601557445838594,Control,Trial 1
+451,-0.18 < MM_Intercept <= 0.03,-0.01552792801287936,Control,Trial 1
+452,idle_time > 0.07,-0.014017113417443,Control,Trial 1
+453,hmm5_p3 > 0.22,0.01390590419120662,Experiment,Trial 1
+454,hmm5_p1 <= 0.17,0.009881529861579025,Experiment,Trial 1
+455,0.19 < hmm5_p2 <= 0.22,-0.006043428707873113,Control,Trial 1
+456,average_peak_curvature > -0.00,0.0048602459286285005,Experiment,Trial 1
+457,0.15 < hmm5_mean.2 <= 0.20,-0.0048194400919719296,Control,Trial 1
+458,0.01 < hmm5_sd.2 <= 0.02,-0.0047908463043085546,Control,Trial 1
+459,hmm5_p4 > 0.23,-0.004117609628463639,Control,Trial 1
+460,0.12 < hmm5_mean.5 <= 0.19,0.0028060808057579776,Experiment,Trial 1
+461,hmm5_mean.1 <= 0.15,-0.0017619534076451406,Control,Trial 1
+462,dis_sum <= -0.69,0.31999847910593815,Experiment,Trial 1
+463,average_speed > 0.17,0.1450111199984607,Experiment,Trial 1
+464,average_peak_magnitude <= 0.04,0.0884682948527456,Experiment,Trial 1
+465,-3.17 < MM_Hess <= 18.21,0.06339496148532313,Experiment,Trial 1
+466,angle_sum <= -0.72,0.054445419254722384,Experiment,Trial 1
+467,average_peak_curvature > -0.00,0.029794406299860264,Experiment,Trial 1
+468,0.12 < hmm5_mean.5 <= 0.19,0.02465057252854422,Experiment,Trial 1
+469,hmm5_mean.4 <= 0.14,0.023599720321875933,Experiment,Trial 1
+470,-0.67 < idle_time <= -0.33,0.022611809139084945,Experiment,Trial 1
+471,hmm5_sd.5 <= 0.01,-0.021365863077144824,Control,Trial 1
+472,0.21 < hmm5_p2 <= 0.25,0.013242319784359927,Experiment,Trial 1
+473,hmm5_sd.3 <= 0.01,-0.013086395847438214,Control,Trial 1
+474,0.15 < hmm5_mean.2 <= 0.20,-0.012934048004991318,Control,Trial 1
+475,-0.18 < MM_Intercept <= 0.03,0.009334563207718492,Experiment,Trial 1
+476,hmm5_sd.1 > 0.03,0.009033139252285275,Experiment,Trial 1
+477,0.19 < hmm5_mean.1 <= 0.31,-0.007682823571878642,Control,Trial 1
+478,hmm5_p3 <= 0.16,-0.0056186567775614316,Control,Trial 1
+479,hmm5_sd.2 <= 0.01,-0.004801319290391144,Control,Trial 1
+480,hmm5_mean.3 <= 0.13,-0.00430168177310629,Control,Trial 1
+481,0.01 < hmm5_sd.4 <= 0.02,0.004012096121226465,Experiment,Trial 1
+482,hmm5_p1 > 0.22,0.0037564302929087618,Experiment,Trial 1
+483,0.17 < hmm5_p4 <= 0.21,0.00040974655665115725,Experiment,Trial 1
+484,dis_sum <= -0.69,0.3984215363416847,Experiment,Trial 1
+485,average_speed > 0.17,0.11498576213526521,Experiment,Trial 1
+486,-21.84 < MM_Hess <= -2.62,0.06902407162030785,Experiment,Trial 1
+487,angle_sum <= -0.72,0.035183994665639026,Experiment,Trial 1
+488,0.01 < hmm5_sd.4 <= 0.02,-0.03005049445787141,Control,Trial 1
+489,idle_time <= -0.65,-0.028107852897952004,Control,Trial 1
+490,-0.18 < MM_Intercept <= 0.03,0.02080697175887264,Experiment,Trial 1
+491,0.19 < hmm5_mean.4 <= 0.28,0.011881647411435294,Experiment,Trial 1
+492,hmm5_p2 <= 0.19,-0.011853753299187643,Control,Trial 1
+493,0.01 < hmm5_sd.1 <= 0.01,0.011565344629534801,Experiment,Trial 1
+494,0.14 < hmm5_mean.1 <= 0.20,-0.008616201476591858,Control,Trial 1
+495,0.03 < average_peak_magnitude <= 0.31,0.007336632026108872,Experiment,Trial 1
+496,0.12 < hmm5_mean.5 <= 0.19,-0.00708030244551945,Control,Trial 1
+497,-0.00 < average_peak_curvature <= -0.00,-0.005383902389096355,Control,Trial 1
+498,hmm5_p1 > 0.22,0.004565160924549655,Experiment,Trial 1
+499,0.01 < hmm5_sd.3 <= 0.01,-0.003336577558027685,Control,Trial 1
+500,hmm5_sd.2 > 0.03,-0.0033072289521909703,Control,Trial 1
+501,hmm5_mean.2 > 0.28,-0.0031371978496818565,Control,Trial 1
+502,hmm5_p3 <= 0.16,-0.0021020180794203095,Control,Trial 1
+503,hmm5_sd.5 <= 0.01,-0.0018891515100161057,Control,Trial 1
+504,0.21 < hmm5_p4 <= 0.23,0.0006972047518155089,Experiment,Trial 1
+505,hmm5_mean.3 <= 0.13,0.00029449242095976464,Experiment,Trial 1
+506,-21.84 < MM_Hess <= -2.62,-0.18735185009972916,Control,Trial 1
+507,dis_sum > 0.28,-0.12454394779523195,Control,Trial 1
+508,-0.63 < average_speed <= -0.13,-0.08932846959288802,Control,Trial 1
+509,0.27 < average_peak_magnitude <= 0.94,-0.027208189264405408,Control,Trial 1
+510,-0.82 < angle_sum <= -0.05,0.024243143385443252,Experiment,Trial 1
+511,0.01 < hmm5_sd.1 <= 0.01,0.020695630034370714,Experiment,Trial 1
+512,0.12 < hmm5_mean.3 <= 0.21,0.0190796806589547,Experiment,Trial 1
+513,hmm5_p3 <= 0.16,0.017607900328103387,Experiment,Trial 1
+514,hmm5_sd.3 <= 0.01,-0.016315001217726898,Control,Trial 1
+515,hmm5_sd.5 <= 0.01,0.014213069391818198,Experiment,Trial 1
+516,hmm5_mean.4 <= 0.14,-0.011706981326201057,Control,Trial 1
+517,0.19 < hmm5_mean.1 <= 0.31,0.011358451440614871,Experiment,Trial 1
+518,-0.42 < idle_time <= 0.15,0.010223752378310583,Experiment,Trial 1
+519,hmm5_mean.2 > 0.28,-0.009917059740570026,Control,Trial 1
+520,0.12 < hmm5_mean.5 <= 0.19,-0.006723176850918855,Control,Trial 1
+521,hmm5_sd.2 > 0.03,0.006051270670707121,Experiment,Trial 1
+522,0.00 < MM_Intercept <= 0.38,0.005816876229507506,Experiment,Trial 1
+523,hmm5_p2 > 0.24,-0.004646144052308928,Control,Trial 1
+524,average_peak_curvature > -0.00,-0.0033287493705964387,Control,Trial 1
+525,0.01 < hmm5_sd.4 <= 0.02,-0.003137228957841701,Control,Trial 1
+526,hmm5_p4 <= 0.17,0.0019021253162177594,Experiment,Trial 1
+527,hmm5_p1 > 0.22,0.00011322514372335836,Experiment,Trial 1
+528,-0.86 < dis_sum <= 0.13,-0.21590877473084794,Control,Trial 1
+529,angle_sum > 0.51,-0.06988923946975832,Control,Trial 1
+530,-0.63 < average_speed <= -0.13,-0.06655353593846478,Control,Trial 1
+531,MM_Hess > 16.26,-0.0628949671311743,Control,Trial 1
+532,average_peak_magnitude <= 0.04,0.03129003830918138,Experiment,Trial 1
+533,MM_Intercept <= -0.16,-0.02085654332658455,Control,Trial 1
+534,hmm5_mean.4 <= 0.14,-0.02041316759172901,Control,Trial 1
+535,0.02 < hmm5_sd.2 <= 0.03,-0.019857868718485043,Control,Trial 1
+536,hmm5_mean.3 <= 0.13,0.016528095440442876,Experiment,Trial 1
+537,-0.42 < idle_time <= 0.15,0.01602283496438871,Experiment,Trial 1
+538,hmm5_sd.4 <= 0.01,0.013812582498818228,Experiment,Trial 1
+539,hmm5_p4 <= 0.17,-0.009409557110517533,Control,Trial 1
+540,0.20 < hmm5_p3 <= 0.23,-0.00814632413386584,Control,Trial 1
+541,0.20 < hmm5_p1 <= 0.23,0.008116710133570616,Experiment,Trial 1
+542,average_peak_curvature > -0.00,-0.005134152930741931,Control,Trial 1
+543,hmm5_sd.3 <= 0.01,-0.0037187164552067923,Control,Trial 1
+544,hmm5_mean.5 <= 0.13,-0.003438310954061935,Control,Trial 1
+545,hmm5_mean.2 <= 0.16,-0.0034085005680681824,Control,Trial 1
+546,hmm5_sd.1 <= 0.01,0.002217577634319137,Experiment,Trial 1
+547,hmm5_sd.5 <= 0.01,-0.001552942928513482,Control,Trial 1
+548,0.19 < hmm5_p2 <= 0.22,0.00022573623350997422,Experiment,Trial 1
+549,hmm5_mean.1 <= 0.15,0.0001719274935831715,Experiment,Trial 1
+550,dis_sum > 0.28,0.0941067600815668,Experiment,Trial 1
+551,average_speed <= -0.56,-0.06425887371494203,Control,Trial 1
+552,idle_time > 0.07,-0.05741022529362245,Control,Trial 1
+553,angle_sum > 0.51,-0.03985449399018594,Control,Trial 1
+554,0.20 < hmm5_p3 <= 0.23,-0.02772308364676106,Control,Trial 1
+555,hmm5_mean.2 <= 0.16,0.02373707522431736,Experiment,Trial 1
+556,0.02 < hmm5_sd.2 <= 0.03,0.022288055833933958,Experiment,Trial 1
+557,0.14 < hmm5_mean.1 <= 0.20,0.016968923210175645,Experiment,Trial 1
+558,hmm5_sd.1 <= 0.01,0.016865998345943066,Experiment,Trial 1
+559,hmm5_sd.4 > 0.02,0.014494125974294354,Experiment,Trial 1
+560,0.01 < hmm5_sd.3 <= 0.01,0.014456884593304725,Experiment,Trial 1
+561,0.27 < average_peak_magnitude <= 0.94,-0.01353445880925842,Control,Trial 1
+562,0.20 < hmm5_p1 <= 0.23,-0.012400279248312369,Control,Trial 1
+563,0.00 < MM_Intercept <= 0.38,0.011239751059809053,Experiment,Trial 1
+564,0.12 < hmm5_mean.5 <= 0.19,0.010932510806136275,Experiment,Trial 1
+565,hmm5_p2 <= 0.19,0.008546083369631504,Experiment,Trial 1
+566,0.01 < hmm5_sd.5 <= 0.01,0.007413736250935855,Experiment,Trial 1
+567,-0.00 < average_peak_curvature <= -0.00,0.005621394866702026,Experiment,Trial 1
+568,0.21 < hmm5_p4 <= 0.23,0.004795898978921809,Experiment,Trial 1
+569,-3.17 < MM_Hess <= 18.21,-0.004192203260607955,Control,Trial 1
+570,hmm5_mean.4 > 0.28,-0.0035946077674342642,Control,Trial 1
+571,0.20 < hmm5_mean.3 <= 0.26,-0.0030099447453036266,Control,Trial 1
+572,dis_sum <= -0.69,0.38693903945741914,Experiment,Trial 1
+573,average_peak_magnitude <= 0.04,0.05531960370342388,Experiment,Trial 1
+574,-0.18 < average_speed <= 0.18,-0.054376777227934846,Control,Trial 1
+575,-3.17 < MM_Hess <= 18.21,-0.022843809501765056,Control,Trial 1
+576,-0.05 < angle_sum <= 0.56,-0.018000562681154086,Control,Trial 1
+577,hmm5_mean.3 <= 0.13,0.015706448787183233,Experiment,Trial 1
+578,hmm5_sd.4 <= 0.01,-0.013238823385653286,Control,Trial 1
+579,0.18 < hmm5_mean.5 <= 0.26,0.011731069106447861,Experiment,Trial 1
+580,hmm5_p1 > 0.22,-0.011271310652809117,Control,Trial 1
+581,hmm5_mean.1 <= 0.15,0.00981932142575485,Experiment,Trial 1
+582,hmm5_mean.2 <= 0.16,-0.007872801973800116,Control,Trial 1
+583,hmm5_sd.5 > 0.02,-0.007628144716097172,Control,Trial 1
+584,hmm5_sd.2 <= 0.01,0.006385796084606384,Experiment,Trial 1
+585,0.17 < hmm5_p4 <= 0.21,0.005124270906198632,Experiment,Trial 1
+586,-0.42 < idle_time <= 0.15,0.004372725088784413,Experiment,Trial 1
+587,hmm5_mean.4 <= 0.14,0.004302405595835452,Experiment,Trial 1
+588,0.01 < hmm5_sd.3 <= 0.01,-0.004277513844466925,Control,Trial 1
+589,MM_Intercept <= -0.16,0.0030468318799865774,Experiment,Trial 1
+590,average_peak_curvature > -0.00,-0.0024759682599828194,Control,Trial 1
+591,0.20 < hmm5_p3 <= 0.23,-0.002068957939857788,Control,Trial 1
+592,0.21 < hmm5_p2 <= 0.25,0.0018372278113630912,Experiment,Trial 1
+593,hmm5_sd.1 <= 0.01,-0.001116800224315248,Control,Trial 1
+594,dis_sum > 0.28,0.11219168592033696,Experiment,Trial 1
+595,MM_Hess > 16.26,0.05992167832708015,Experiment,Trial 1
+596,average_speed <= -0.56,-0.059062718107614584,Control,Trial 1
+597,average_peak_magnitude <= 0.04,0.05499006484902565,Experiment,Trial 1
+598,MM_Intercept <= -0.16,-0.04285775350565435,Control,Trial 1
+599,hmm5_mean.1 <= 0.15,0.023804480073684502,Experiment,Trial 1
+600,0.19 < hmm5_mean.4 <= 0.28,0.01926874307601227,Experiment,Trial 1
+601,hmm5_sd.4 > 0.02,-0.017571474177402124,Control,Trial 1
+602,-0.42 < idle_time <= 0.15,0.015983702283437824,Experiment,Trial 1
+603,hmm5_mean.5 <= 0.13,0.013086894544661025,Experiment,Trial 1
+604,0.20 < hmm5_p3 <= 0.23,-0.011225242806917956,Control,Trial 1
+605,hmm5_sd.3 <= 0.01,-0.010179070593243925,Control,Trial 1
+606,hmm5_p1 <= 0.17,0.007538168054478562,Experiment,Trial 1
+607,0.01 < hmm5_sd.2 <= 0.02,-0.007155223200383713,Control,Trial 1
+608,hmm5_p4 > 0.23,0.006251425810540778,Experiment,Trial 1
+609,0.12 < hmm5_mean.3 <= 0.21,0.0059698820572238265,Experiment,Trial 1
+610,-0.82 < angle_sum <= -0.05,-0.005364427463524304,Control,Trial 1
+611,-0.00 < average_peak_curvature <= -0.00,0.004986432284457705,Experiment,Trial 1
+612,hmm5_p2 > 0.24,0.0035696970781051323,Experiment,Trial 1
+613,hmm5_sd.1 <= 0.01,0.001926963842037151,Experiment,Trial 1
+614,0.01 < hmm5_sd.5 <= 0.01,-0.0019107496578471377,Control,Trial 1
+615,0.15 < hmm5_mean.2 <= 0.20,-0.0010454805778141898,Control,Trial 1
+616,MM_Hess > 16.26,-0.2738351977117969,Control,Trial 1
+617,dis_sum > 0.28,0.05808300316741931,Experiment,Trial 1
+618,average_speed <= -0.56,-0.04732003218717733,Control,Trial 1
+619,-0.42 < idle_time <= 0.15,0.0342974102342956,Experiment,Trial 1
+620,hmm5_mean.1 <= 0.15,0.030524566091302927,Experiment,Trial 1
+621,hmm5_p3 <= 0.16,0.025909004534277337,Experiment,Trial 1
+622,0.21 < hmm5_p4 <= 0.23,-0.02352597224159006,Control,Trial 1
+623,hmm5_sd.4 > 0.02,0.02258101853563778,Experiment,Trial 1
+624,-0.00 < average_peak_curvature <= -0.00,0.018397291124385713,Experiment,Trial 1
+625,hmm5_sd.2 <= 0.01,-0.01573821059230962,Control,Trial 1
+626,hmm5_mean.3 <= 0.13,0.01501426873240047,Experiment,Trial 1
+627,0.19 < hmm5_mean.4 <= 0.28,-0.010228905836887776,Control,Trial 1
+628,-0.18 < MM_Intercept <= 0.03,-0.008523866599031156,Control,Trial 1
+629,0.03 < average_peak_magnitude <= 0.31,-0.006625936275282984,Control,Trial 1
+630,0.21 < hmm5_p2 <= 0.25,-0.006490263248687515,Control,Trial 1
+631,0.01 < hmm5_sd.5 <= 0.01,0.006385872399453626,Experiment,Trial 1
+632,0.20 < hmm5_p1 <= 0.23,0.004410976373878765,Experiment,Trial 1
+633,angle_sum > 0.51,0.003160652617400571,Experiment,Trial 1
+634,0.01 < hmm5_sd.3 <= 0.02,-0.0030170759619309647,Control,Trial 1
+635,0.15 < hmm5_mean.2 <= 0.20,-0.0023039799090492116,Control,Trial 1
+636,0.01 < hmm5_sd.1 <= 0.01,-0.0006151847063331435,Control,Trial 1
+637,0.18 < hmm5_mean.5 <= 0.26,-0.0004312156302503337,Control,Trial 1
+638,MM_Hess <= -20.66,-0.5230436290582919,Control,Trial 1
+639,dis_sum <= -0.69,0.29148114957316185,Experiment,Trial 1
+640,average_speed > 0.17,0.06424389063506422,Experiment,Trial 1
+641,angle_sum <= -0.72,0.043336739446798334,Experiment,Trial 1
+642,idle_time <= -0.65,-0.020188579830890677,Control,Trial 1
+643,0.03 < average_peak_magnitude <= 0.31,0.01810157036544768,Experiment,Trial 1
+644,-0.18 < MM_Intercept <= 0.03,0.010814912938667768,Experiment,Trial 1
+645,hmm5_sd.1 > 0.03,-0.010332614240376237,Control,Trial 1
+646,hmm5_sd.4 <= 0.01,-0.008658466851285814,Control,Trial 1
+647,hmm5_p1 > 0.22,-0.008279962540501205,Control,Trial 1
+648,hmm5_p3 <= 0.16,0.00520387923715845,Experiment,Trial 1
+649,hmm5_sd.5 <= 0.01,0.004916834161869445,Experiment,Trial 1
+650,hmm5_sd.3 <= 0.01,-0.004003642409811973,Control,Trial 1
+651,hmm5_p2 > 0.24,0.0033161037551994467,Experiment,Trial 1
+652,0.01 < hmm5_sd.2 <= 0.02,-0.003184523524062888,Control,Trial 1
+653,hmm5_p4 <= 0.17,-0.003128282241491673,Control,Trial 1
+654,0.15 < hmm5_mean.2 <= 0.20,0.0021433593215011357,Experiment,Trial 1
+655,0.12 < hmm5_mean.5 <= 0.19,0.0012768788883332192,Experiment,Trial 1
+656,0.12 < hmm5_mean.4 <= 0.20,-0.0011388283292657145,Control,Trial 1
+657,-0.00 < average_peak_curvature <= -0.00,0.0010300607505711176,Experiment,Trial 1
+658,0.19 < hmm5_mean.1 <= 0.31,-0.0006570340175210798,Control,Trial 1
+659,hmm5_mean.3 <= 0.13,4.128755054907479e-06,Experiment,Trial 1
+660,dis_sum <= -0.69,0.3069976604018984,Experiment,Trial 1
+661,average_speed <= -0.56,-0.04558166925490812,Control,Trial 1
+662,-3.17 < MM_Hess <= 17.48,-0.03558117570579563,Control,Trial 1
+663,0.03 < average_peak_magnitude <= 0.31,0.03241383113636448,Experiment,Trial 1
+664,angle_sum <= -0.72,0.02763674167264929,Experiment,Trial 1
+665,idle_time > 0.07,-0.022930687712216992,Control,Trial 1
+666,hmm5_sd.2 <= 0.01,0.012857354584466806,Experiment,Trial 1
+667,hmm5_sd.5 <= 0.01,0.011495282792145031,Experiment,Trial 1
+668,0.19 < hmm5_mean.4 <= 0.28,0.009338463719932558,Experiment,Trial 1
+669,0.01 < hmm5_sd.1 <= 0.03,0.00834939832559553,Experiment,Trial 1
+670,hmm5_p3 > 0.22,0.007379337099886558,Experiment,Trial 1
+671,hmm5_sd.4 > 0.02,0.006480390957987761,Experiment,Trial 1
+672,0.12 < hmm5_mean.5 <= 0.19,-0.006392948449087356,Control,Trial 1
+673,hmm5_sd.3 <= 0.01,0.003161685543039351,Experiment,Trial 1
+674,-0.00 < average_peak_curvature <= -0.00,-0.003147437478267612,Control,Trial 1
+675,hmm5_mean.2 <= 0.16,0.0029607812315517006,Experiment,Trial 1
+676,hmm5_p4 > 0.23,0.0025688998243967383,Experiment,Trial 1
+677,hmm5_p2 <= 0.19,0.002330021264253248,Experiment,Trial 1
+678,0.12 < hmm5_mean.3 <= 0.21,0.0021845773276124476,Experiment,Trial 1
+679,0.19 < hmm5_mean.1 <= 0.31,0.0020267320071963102,Experiment,Trial 1
+680,-0.18 < MM_Intercept <= 0.03,0.0010236425563388155,Experiment,Trial 1
+681,0.20 < hmm5_p1 <= 0.23,0.0008012798011690851,Experiment,Trial 1
+682,dis_sum > 0.28,0.10478732068670683,Experiment,Trial 1
+683,MM_Hess > 16.26,-0.05460615761246963,Control,Trial 1
+684,average_peak_magnitude <= 0.04,0.04868751272938125,Experiment,Trial 1
+685,average_speed <= -0.56,-0.04095503208551401,Control,Trial 1
+686,hmm5_sd.1 <= 0.01,0.034163144622810046,Experiment,Trial 1
+687,MM_Intercept <= -0.16,0.025688747422437673,Experiment,Trial 1
+688,-0.67 < idle_time <= -0.33,0.021563303094755223,Experiment,Trial 1
+689,average_peak_curvature > -0.00,0.020406119642007108,Experiment,Trial 1
+690,hmm5_sd.4 <= 0.01,-0.020118710024595192,Control,Trial 1
+691,0.19 < hmm5_mean.2 <= 0.29,-0.019879914402706946,Control,Trial 1
+692,0.01 < hmm5_sd.5 <= 0.02,0.01778143477301037,Experiment,Trial 1
+693,0.20 < hmm5_p1 <= 0.23,-0.01709075341808019,Control,Trial 1
+694,hmm5_mean.5 <= 0.13,0.01548459687023104,Experiment,Trial 1
+695,angle_sum > 0.51,-0.013277163395960764,Control,Trial 1
+696,hmm5_p2 <= 0.19,0.009960284019008982,Experiment,Trial 1
+697,hmm5_mean.4 <= 0.14,0.005840984329012317,Experiment,Trial 1
+698,0.02 < hmm5_sd.2 <= 0.03,0.004921328824298501,Experiment,Trial 1
+699,0.12 < hmm5_mean.3 <= 0.21,-0.004542436700612017,Control,Trial 1
+700,hmm5_sd.3 <= 0.01,0.004169207834691351,Experiment,Trial 1
+701,0.20 < hmm5_p3 <= 0.23,-0.003676744654801365,Control,Trial 1
+702,0.21 < hmm5_p4 <= 0.23,-0.003651774035419441,Control,Trial 1
+703,0.14 < hmm5_mean.1 <= 0.20,0.0022803391166684437,Experiment,Trial 1
+704,MM_Hess <= -20.66,0.345100963995135,Experiment,Trial 1
+705,dis_sum <= -0.69,-0.07961068206292989,Control,Trial 1
+706,average_peak_magnitude > 0.89,-0.07431250669562807,Control,Trial 1
+707,hmm5_mean.5 > 0.25,-0.02565906055494782,Control,Trial 1
+708,hmm5_p3 <= 0.16,-0.02469993779465342,Control,Trial 1
+709,average_speed > 0.17,0.022264867784473216,Experiment,Trial 1
+710,0.14 < hmm5_mean.1 <= 0.20,0.01660470305835264,Experiment,Trial 1
+711,-0.42 < idle_time <= 0.15,-0.013660855977738745,Control,Trial 1
+712,angle_sum <= -0.72,-0.012946951815055608,Control,Trial 1
+713,0.01 < hmm5_sd.4 <= 0.02,0.0122352122983339,Experiment,Trial 1
+714,hmm5_mean.2 > 0.28,-0.011404683080790914,Control,Trial 1
+715,0.01 < hmm5_sd.5 <= 0.01,-0.010133305910284673,Control,Trial 1
+716,hmm5_p4 > 0.23,-0.010081665467897663,Control,Trial 1
+717,hmm5_p1 <= 0.17,0.008037401583375783,Experiment,Trial 1
+718,0.01 < hmm5_sd.1 <= 0.03,0.00637753130051557,Experiment,Trial 1
+719,0.01 < hmm5_sd.3 <= 0.01,-0.004510163337557722,Control,Trial 1
+720,hmm5_p2 > 0.24,-0.00380239065458962,Control,Trial 1
+721,hmm5_mean.4 > 0.28,-0.0034830226423015784,Control,Trial 1
+722,average_peak_curvature <= -0.00,0.003434561127196549,Experiment,Trial 1
+723,hmm5_sd.2 > 0.03,0.0028931671028984427,Experiment,Trial 1
+724,MM_Intercept > 0.37,-0.0011719644850902192,Control,Trial 1
+725,0.20 < hmm5_mean.3 <= 0.26,0.0011413912786016305,Experiment,Trial 1
+726,-0.86 < dis_sum <= 0.13,-0.2588026985775974,Control,Trial 1
+727,average_peak_magnitude > 0.89,-0.10190250681079707,Control,Trial 1
+728,MM_Hess <= -20.66,-0.05372794042799664,Control,Trial 1
+729,-0.18 < average_speed <= 0.18,-0.05301874589210204,Control,Trial 1
+730,MM_Intercept > 0.37,-0.03070893168515064,Control,Trial 1
+731,hmm5_sd.3 <= 0.01,0.024496157317603212,Experiment,Trial 1
+732,-0.67 < idle_time <= -0.33,-0.018307024820219907,Control,Trial 1
+733,hmm5_p3 <= 0.16,0.013665377576625047,Experiment,Trial 1
+734,hmm5_mean.2 > 0.28,-0.013632659657044754,Control,Trial 1
+735,hmm5_p4 > 0.23,-0.01192698638252687,Control,Trial 1
+736,hmm5_p2 > 0.24,-0.00768755000012479,Control,Trial 1
+737,hmm5_sd.2 > 0.03,-0.006557759646621226,Control,Trial 1
+738,0.19 < hmm5_mean.1 <= 0.31,-0.0054323061614900674,Control,Trial 1
+739,0.16 < hmm5_p1 <= 0.20,-0.0035817561132839735,Control,Trial 1
+740,hmm5_mean.4 > 0.28,-0.0028192880852525625,Control,Trial 1
+741,0.18 < hmm5_mean.5 <= 0.26,-0.002588703677792664,Control,Trial 1
+742,hmm5_sd.1 <= 0.01,0.0018872540218237864,Experiment,Trial 1
+743,0.01 < hmm5_sd.4 <= 0.02,0.001326106951685261,Experiment,Trial 1
+744,average_peak_curvature <= -0.00,-0.0011465934967995052,Control,Trial 1
+745,0.20 < hmm5_mean.3 <= 0.26,-0.0008897533068627094,Control,Trial 1
+746,hmm5_sd.5 > 0.02,-0.000884322044755433,Control,Trial 1
+747,-0.82 < angle_sum <= -0.05,-0.0007839869910617833,Control,Trial 1
+748,MM_Hess > 16.26,0.1707936823517634,Experiment,Trial 1
+749,dis_sum > 0.28,0.11912523091112209,Experiment,Trial 1
+750,-0.63 < average_speed <= -0.13,-0.08179551003419791,Control,Trial 1
+751,average_peak_magnitude <= 0.04,0.0713033298529119,Experiment,Trial 1
+752,hmm5_p2 > 0.24,0.02871636586232627,Experiment,Trial 1
+753,hmm5_mean.2 <= 0.16,0.0272933570015795,Experiment,Trial 1
+754,hmm5_mean.1 <= 0.15,0.022664404488736484,Experiment,Trial 1
+755,0.01 < hmm5_sd.3 <= 0.02,-0.01791251545708238,Control,Trial 1
+756,MM_Intercept <= -0.16,0.013153959347163745,Experiment,Trial 1
+757,hmm5_sd.2 <= 0.01,-0.011091263647164768,Control,Trial 1
+758,hmm5_sd.1 <= 0.01,0.010293817346300797,Experiment,Trial 1
+759,-0.82 < angle_sum <= -0.05,-0.009853772382643212,Control,Trial 1
+760,hmm5_mean.4 <= 0.14,0.008817520254037573,Experiment,Trial 1
+761,hmm5_mean.5 <= 0.13,0.008573036976027463,Experiment,Trial 1
+762,hmm5_p4 > 0.23,0.008102753269342601,Experiment,Trial 1
+763,0.12 < hmm5_mean.3 <= 0.21,-0.007228893788320792,Control,Trial 1
+764,hmm5_sd.4 <= 0.01,0.005895676239801591,Experiment,Trial 1
+765,0.20 < hmm5_p1 <= 0.23,0.005412580484860299,Experiment,Trial 1
+766,average_peak_curvature > -0.00,0.004887385901509608,Experiment,Trial 1
+767,0.01 < hmm5_sd.5 <= 0.01,0.004663031502726145,Experiment,Trial 1
+768,idle_time <= -0.65,-0.004234845997335485,Control,Trial 1
+769,0.15 < hmm5_p3 <= 0.20,-0.003728993798228677,Control,Trial 1
+770,0.07 < dis_sum <= 0.29,-0.3489936279419476,Control,Trial 1
+771,MM_Hess > 16.26,-0.17730090860123782,Control,Trial 1
+772,average_speed > 0.17,0.1100299076934614,Experiment,Trial 1
+773,angle_sum > 0.51,-0.0738997769366638,Control,Trial 1
+774,idle_time <= -0.65,0.024548685824382677,Experiment,Trial 1
+775,0.27 < average_peak_magnitude <= 0.94,-0.023440971190892234,Control,Trial 1
+776,0.00 < MM_Intercept <= 0.38,-0.02298974266377512,Control,Trial 1
+777,0.01 < hmm5_sd.3 <= 0.02,0.019912883304821234,Experiment,Trial 1
+778,0.16 < hmm5_p1 <= 0.20,0.01926475616597212,Experiment,Trial 1
+779,hmm5_sd.2 <= 0.01,-0.015655297594018874,Control,Trial 1
+780,hmm5_sd.5 > 0.02,-0.012877042116629978,Control,Trial 1
+781,0.14 < hmm5_mean.1 <= 0.20,-0.010174520624493397,Control,Trial 1
+782,0.01 < hmm5_sd.4 <= 0.02,0.008398501889905366,Experiment,Trial 1
+783,0.20 < hmm5_mean.3 <= 0.26,-0.007699359821304595,Control,Trial 1
+784,-0.00 < average_peak_curvature <= -0.00,-0.007215294342278713,Control,Trial 1
+785,0.20 < hmm5_p3 <= 0.23,-0.005078312096357512,Control,Trial 1
+786,hmm5_mean.4 <= 0.14,0.004799954168947521,Experiment,Trial 1
+787,hmm5_mean.5 > 0.25,-0.004522370051813524,Control,Trial 1
+788,0.19 < hmm5_p2 <= 0.22,-0.003895704653582526,Control,Trial 1
+789,0.19 < hmm5_mean.2 <= 0.29,0.0036055631315413043,Experiment,Trial 1
+790,0.21 < hmm5_p4 <= 0.23,-0.001995646622862656,Control,Trial 1
+791,0.01 < hmm5_sd.1 <= 0.01,0.0006846924262893768,Experiment,Trial 1
+792,MM_Hess > 16.26,0.5281528368954076,Experiment,Trial 1
+793,dis_sum <= -0.69,0.40677703158337897,Experiment,Trial 1
+794,average_speed > 0.17,0.22600082040212127,Experiment,Trial 1
+795,average_peak_magnitude <= 0.04,0.06266705512025957,Experiment,Trial 1
+796,hmm5_sd.5 <= 0.01,-0.020762532690466635,Control,Trial 1
+797,0.19 < hmm5_mean.4 <= 0.28,0.015963220368837846,Experiment,Trial 1
+798,hmm5_p1 <= 0.17,-0.015598749534632656,Control,Trial 1
+799,hmm5_p2 > 0.24,-0.010931598180718597,Control,Trial 1
+800,-0.05 < angle_sum <= 0.56,-0.01015593278208336,Control,Trial 1
+801,hmm5_mean.2 <= 0.16,-0.0051516880730074115,Control,Trial 1
+802,hmm5_mean.1 <= 0.15,-0.004612933716855212,Control,Trial 1
+803,hmm5_sd.4 > 0.02,-0.003964884724267434,Control,Trial 1
+804,hmm5_sd.1 <= 0.01,0.003873559597866931,Experiment,Trial 1
+805,idle_time <= -0.65,-0.003779559528342489,Control,Trial 1
+806,hmm5_p4 <= 0.17,0.003121390556485923,Experiment,Trial 1
+807,0.15 < hmm5_p3 <= 0.20,-0.00214969454969867,Control,Trial 1
+808,average_peak_curvature > -0.00,-0.0017027084380033665,Control,Trial 1
+809,hmm5_mean.5 <= 0.13,0.001369170803437408,Experiment,Trial 1
+810,hmm5_sd.2 <= 0.01,0.0011877107175818683,Experiment,Trial 1
+811,hmm5_mean.3 <= 0.13,0.0009895577968996156,Experiment,Trial 1
+812,hmm5_sd.3 <= 0.01,0.0006471293504231315,Experiment,Trial 1
+813,MM_Intercept <= -0.16,-9.336705367674606e-05,Control,Trial 1
+814,MM_Hess <= -20.66,0.21216498856954571,Experiment,Trial 1
+815,dis_sum > 0.28,0.07295500176267575,Experiment,Trial 1
+816,hmm5_sd.4 > 0.02,-0.023248859152344436,Control,Trial 1
+817,average_speed <= -0.56,0.018449626559125704,Experiment,Trial 1
+818,hmm5_mean.1 <= 0.15,0.0175651287492641,Experiment,Trial 1
+819,0.01 < hmm5_sd.3 <= 0.02,-0.015485614511188949,Control,Trial 1
+820,0.01 < hmm5_sd.1 <= 0.03,-0.012424592461159975,Control,Trial 1
+821,idle_time > 0.07,0.009829984796168999,Experiment,Trial 1
+822,0.20 < hmm5_mean.3 <= 0.26,-0.008809967156400433,Control,Trial 1
+823,0.19 < hmm5_p2 <= 0.22,0.008359952387218806,Experiment,Trial 1
+824,hmm5_p3 > 0.22,0.006264863897388947,Experiment,Trial 1
+825,0.27 < average_peak_magnitude <= 0.94,-0.006145394201886937,Control,Trial 1
+826,hmm5_mean.2 > 0.28,-0.005264348872764401,Control,Trial 1
+827,hmm5_mean.4 > 0.28,-0.005246489780737772,Control,Trial 1
+828,0.00 < MM_Intercept <= 0.38,-0.004819609080194943,Control,Trial 1
+829,0.02 < hmm5_sd.2 <= 0.03,0.004273159038212874,Experiment,Trial 1
+830,0.16 < hmm5_p1 <= 0.20,0.004070972975257382,Experiment,Trial 1
+831,hmm5_p4 <= 0.17,-0.003100557436401707,Control,Trial 1
+832,average_peak_curvature <= -0.00,0.0028745763348019295,Experiment,Trial 1
+833,0.12 < hmm5_mean.5 <= 0.19,0.0027145947249384663,Experiment,Trial 1
+834,0.01 < hmm5_sd.5 <= 0.01,-0.0017486842638874901,Control,Trial 1
+835,-0.82 < angle_sum <= -0.05,-0.0010563949547198795,Control,Trial 1
+836,dis_sum <= -0.69,0.3521239369158876,Experiment,Trial 1
+837,average_speed > 0.17,0.17826634524884338,Experiment,Trial 1
+838,angle_sum <= -0.72,0.046091657365256576,Experiment,Trial 1
+839,hmm5_mean.1 > 0.30,-0.031074774874379842,Control,Trial 1
+840,0.03 < average_peak_magnitude <= 0.31,0.01891407574474269,Experiment,Trial 1
+841,-0.00 < average_peak_curvature <= -0.00,-0.01481498690998973,Control,Trial 1
+842,-21.84 < MM_Hess <= -2.62,0.014124089537348642,Experiment,Trial 1
+843,hmm5_sd.4 <= 0.01,-0.013616880004704172,Control,Trial 1
+844,idle_time <= -0.65,0.013432545127137664,Experiment,Trial 1
+845,0.01 < hmm5_sd.1 <= 0.03,-0.011802723951089828,Control,Trial 1
+846,0.18 < hmm5_mean.5 <= 0.26,-0.009858241947512062,Control,Trial 1
+847,hmm5_p1 <= 0.17,-0.009110330862913523,Control,Trial 1
+848,hmm5_sd.5 <= 0.01,-0.0074241567751988655,Control,Trial 1
+849,0.02 < hmm5_sd.2 <= 0.03,0.006509075515443797,Experiment,Trial 1
+850,0.19 < hmm5_mean.4 <= 0.28,0.00635120999791154,Experiment,Trial 1
+851,hmm5_sd.3 > 0.02,0.006226272941831361,Experiment,Trial 1
+852,0.15 < hmm5_mean.2 <= 0.20,0.005800387802165713,Experiment,Trial 1
+853,hmm5_p3 > 0.22,-0.005120877842832334,Control,Trial 1
+854,hmm5_mean.3 <= 0.13,-0.004372126563474906,Control,Trial 1
+855,hmm5_p4 <= 0.17,0.00391136513551902,Experiment,Trial 1
+856,hmm5_p2 > 0.24,-0.0034954745913842638,Control,Trial 1
+857,-0.18 < MM_Intercept <= 0.03,0.0024052896860326098,Experiment,Trial 1

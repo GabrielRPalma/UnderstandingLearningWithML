@@ -1,0 +1,3232 @@
+converged at iteration 70 with logLik: -487.9167 
+Initial state probabilities model 
+pr1 pr2 
+  0   1 
+
+Transition matrix 
+        toS1  toS2
+fromS1 0.991 0.009
+fromS2 0.009 0.991
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1          -0.247  0.266
+St2           0.998  0.606
+converged at iteration 14 with logLik: -792.0755 
+Initial state probabilities model 
+pr1 pr2 
+  1   0 
+
+Transition matrix 
+        toS1  toS2
+fromS1 0.985 0.015
+fromS2 0.004 0.996
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           2.119  1.117
+St2           0.080  0.466
+converged at iteration 11 with logLik: -552.055 
+Initial state probabilities model 
+pr1 pr2 
+  1   0 
+
+Transition matrix 
+        toS1  toS2
+fromS1 0.992 0.008
+fromS2 0.003 0.997
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           1.079  0.730
+St2          -0.618  0.357
+converged at iteration 28 with logLik: -201.4485 
+Initial state probabilities model 
+pr1 pr2 
+  1   0 
+
+Transition matrix 
+        toS1  toS2
+fromS1 0.986 0.014
+fromS2 0.011 0.989
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.531  0.510
+St2          -0.401  0.177
+converged at iteration 63 with logLik: -779.3495 
+Initial state probabilities model 
+pr1 pr2 
+  0   1 
+
+Transition matrix 
+        toS1  toS2
+fromS1 0.990 0.010
+fromS2 0.008 0.992
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1          -0.310  0.422
+St2           1.479  0.692
+converged at iteration 35 with logLik: -334.2102 
+Initial state probabilities model 
+pr1 pr2 
+  1   0 
+
+Transition matrix 
+        toS1  toS2
+fromS1 0.985 0.015
+fromS2 0.016 0.984
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1          -0.439  0.301
+St2           0.544  0.376
+converged at iteration 18 with logLik: -762.5815 
+Initial state probabilities model 
+pr1 pr2 
+  1   0 
+
+Transition matrix 
+        toS1  toS2
+fromS1 0.979 0.021
+fromS2 0.008 0.992
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           2.891  0.786
+St2           1.439  0.458
+converged at iteration 24 with logLik: -416.2092 
+Initial state probabilities model 
+pr1 pr2 
+  1   0 
+
+Transition matrix 
+        toS1  toS2
+fromS1 0.986 0.014
+fromS2 0.007 0.993
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.579  0.536
+St2          -0.662  0.293
+converged at iteration 44 with logLik: -179.0663 
+Initial state probabilities model 
+pr1 pr2 
+  1   0 
+
+Transition matrix 
+        toS1  toS2
+fromS1 0.989 0.011
+fromS2 0.011 0.989
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1          -0.269  0.283
+St2           0.623  0.285
+converged at iteration 28 with logLik: -770.7266 
+Initial state probabilities model 
+pr1 pr2 
+  0   1 
+
+Transition matrix 
+        toS1  toS2
+fromS1 0.991 0.009
+fromS2 0.017 0.983
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.149  0.502
+St2           1.750  0.628
+converged at iteration 34 with logLik: -179.2454 
+Initial state probabilities model 
+pr1 pr2 
+  0   1 
+
+Transition matrix 
+        toS1  toS2
+fromS1 0.988 0.012
+fromS2 0.018 0.982
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1          -0.729  0.253
+St2           0.107  0.326
+converged at iteration 25 with logLik: -181.7374 
+Initial state probabilities model 
+pr1 pr2 
+  0   1 
+
+Transition matrix 
+        toS1  toS2
+fromS1 0.988 0.012
+fromS2 0.011 0.989
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1          -1.125  0.203
+St2          -0.279  0.388
+converged at iteration 24 with logLik: -275.4749 
+Initial state probabilities model 
+pr1 pr2 
+  0   1 
+
+Transition matrix 
+        toS1  toS2
+fromS1 0.989 0.011
+fromS2 0.017 0.983
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1          -0.104  0.206
+St2           0.739  0.594
+converged at iteration 57 with logLik: 189.9801 
+Initial state probabilities model 
+pr1 pr2 
+  1   0 
+
+Transition matrix 
+        toS1  toS2
+fromS1 0.993 0.007
+fromS2 0.004 0.996
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1          -0.385  0.192
+St2          -1.035  0.190
+converged at iteration 18 with logLik: 140.6297 
+Initial state probabilities model 
+pr1 pr2 
+  1   0 
+
+Transition matrix 
+        toS1  toS2
+fromS1 0.980 0.020
+fromS2 0.008 0.992
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1          -0.343  0.248
+St2          -0.930  0.178
+converged at iteration 14 with logLik: -308.4958 
+Initial state probabilities model 
+pr1 pr2 
+  1   0 
+
+Transition matrix 
+        toS1  toS2
+fromS1 0.993 0.007
+fromS2 0.010 0.990
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1          -0.454  0.227
+St2           0.916  0.710
+converged at iteration 11 with logLik: -1113.904 
+Initial state probabilities model 
+pr1 pr2 
+  1   0 
+
+Transition matrix 
+        toS1  toS2
+fromS1 0.988 0.012
+fromS2 0.003 0.997
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           2.962  1.912
+St2          -0.035  0.584
+converged at iteration 20 with logLik: -337.2131 
+Initial state probabilities model 
+pr1 pr2 
+  0   1 
+
+Transition matrix 
+        toS1  toS2
+fromS1 0.990 0.010
+fromS2 0.008 0.992
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.597  0.480
+St2          -0.483  0.258
+converged at iteration 24 with logLik: -210.149 
+Initial state probabilities model 
+pr1 pr2 
+  1   0 
+
+Transition matrix 
+        toS1  toS2
+fromS1 0.984 0.016
+fromS2 0.010 0.990
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1          -0.324  0.416
+St2          -1.163  0.230
+converged at iteration 28 with logLik: -224.886 
+Initial state probabilities model 
+pr1 pr2 
+  1   0 
+
+Transition matrix 
+        toS1  toS2
+fromS1 0.986 0.014
+fromS2 0.011 0.989
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1          -0.089  0.368
+St2          -0.941  0.248
+converged at iteration 34 with logLik: 35.38651 
+Initial state probabilities model 
+pr1 pr2 
+  1   0 
+
+Transition matrix 
+        toS1  toS2
+fromS1 0.989 0.011
+fromS2 0.006 0.994
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.008  0.350
+St2          -0.643  0.165
+converged at iteration 25 with logLik: -416.8612 
+Initial state probabilities model 
+pr1 pr2 
+  1   0 
+
+Transition matrix 
+        toS1  toS2
+fromS1 0.988 0.012
+fromS2 0.006 0.994
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.727  0.542
+St2          -0.365  0.290
+converged at iteration 10 with logLik: -659.8681 
+Initial state probabilities model 
+pr1 pr2 
+  0   1 
+
+Transition matrix 
+        toS1  toS2
+fromS1 0.984 0.016
+fromS2 0.006 0.994
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           1.642  0.811
+St2          -0.025  0.399
+converged at iteration 40 with logLik: 477.5975 
+Initial state probabilities model 
+pr1 pr2 
+  1   0 
+
+Transition matrix 
+        toS1  toS2
+fromS1 0.987 0.013
+fromS2 0.014 0.986
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1          -1.203  0.117
+St2          -0.804  0.162
+converged at iteration 48 with logLik: 52.37911 
+Initial state probabilities model 
+pr1 pr2 
+  1   0 
+
+Transition matrix 
+        toS1  toS2
+fromS1 0.992 0.008
+fromS2 0.010 0.990
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1          -0.307  0.229
+St2          -0.988  0.211
+converged at iteration 32 with logLik: -212.4954 
+Initial state probabilities model 
+pr1 pr2 pr3 
+  0   1   0 
+
+Transition matrix 
+        toS1  toS2  toS3
+fromS1 0.991 0.009 0.000
+fromS2 0.012 0.980 0.009
+fromS3 0.000 0.016 0.984
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1          -0.269  0.253
+St2           0.651  0.305
+St3           1.809  0.404
+converged at iteration 36 with logLik: -307.9331 
+Initial state probabilities model 
+pr1 pr2 pr3 
+  0   1   0 
+
+Transition matrix 
+        toS1  toS2  toS3
+fromS1 0.989 0.000 0.011
+fromS2 0.000 0.985 0.015
+fromS3 0.012 0.009 0.979
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1          -0.304  0.251
+St2           2.162  1.110
+St3           0.520  0.200
+converged at iteration 23 with logLik: -355.7828 
+Initial state probabilities model 
+pr1 pr2 pr3 
+  0   1   0 
+
+Transition matrix 
+        toS1  toS2  toS3
+fromS1 0.997 0.000 0.003
+fromS2 0.000 0.982 0.018
+fromS3 0.014 0.014 0.973
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1          -0.620  0.356
+St2           1.792  0.472
+St3           0.512  0.245
+converged at iteration 62 with logLik: 142.2662 
+Initial state probabilities model 
+pr1 pr2 pr3 
+  0   0   1 
+
+Transition matrix 
+        toS1  toS2  toS3
+fromS1 0.974 0.017 0.010
+fromS2 0.010 0.990 0.000
+fromS3 0.022 0.000 0.978
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.108  0.179
+St2          -0.442  0.150
+St3           1.024  0.398
+converged at iteration 30 with logLik: -382.3665 
+Initial state probabilities model 
+pr1 pr2 pr3 
+  0   0   1 
+
+Transition matrix 
+        toS1  toS2  toS3
+fromS1 0.990 0.000 0.010
+fromS2 0.000 0.985 0.015
+fromS3 0.013 0.010 0.977
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1          -0.307  0.423
+St2           2.227  0.384
+St3           0.976  0.253
+converged at iteration 52 with logLik: -98.2462 
+Initial state probabilities model 
+pr1 pr2 pr3 
+  0   0   1 
+
+Transition matrix 
+        toS1  toS2  toS3
+fromS1 0.963 0.017 0.020
+fromS2 0.030 0.970 0.000
+fromS3 0.014 0.000 0.986
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.270  0.184
+St2           0.919  0.312
+St3          -0.475  0.285
+converged at iteration 48 with logLik: -327.2873 
+Initial state probabilities model 
+pr1 pr2 pr3 
+  0   0   1 
+
+Transition matrix 
+        toS1  toS2  toS3
+fromS1 0.978 0.010 0.012
+fromS2 0.015 0.985 0.000
+fromS3 0.021 0.000 0.979
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           1.726  0.210
+St2           0.865  0.228
+St3           2.908  0.783
+converged at iteration 48 with logLik: -41.83607 
+Initial state probabilities model 
+pr1 pr2 pr3 
+  0   1   0 
+
+Transition matrix 
+        toS1  toS2  toS3
+fromS1 0.981 0.000 0.019
+fromS2 0.000 0.985 0.015
+fromS3 0.020 0.014 0.966
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1          -0.924  0.149
+St2           0.617  0.523
+St3          -0.392  0.144
+converged at iteration 99 with logLik: 156.0086 
+Initial state probabilities model 
+pr1 pr2 pr3 
+  1   0   0 
+
+Transition matrix 
+        toS1  toS2  toS3
+fromS1 0.960 0.020 0.020
+fromS2 0.012 0.988 0.000
+fromS3 0.022 0.000 0.978
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.022  0.151
+St2           0.660  0.269
+St3          -0.517  0.127
+converged at iteration 36 with logLik: -423.4365 
+Initial state probabilities model 
+pr1 pr2 pr3 
+  0   0   1 
+
+Transition matrix 
+        toS1  toS2  toS3
+fromS1 0.985 0.015 0.000
+fromS2 0.009 0.976 0.015
+fromS3 0.000 0.017 0.983
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1          -0.395  0.309
+St2           0.499  0.232
+St3           1.775  0.619
+converged at iteration 47 with logLik: 136.4885 
+Initial state probabilities model 
+pr1 pr2 pr3 
+  0   1   0 
+
+Transition matrix 
+        toS1  toS2  toS3
+fromS1 0.985 0.015 0.000
+fromS2 0.018 0.970 0.012
+fromS3 0.000 0.018 0.982
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1          -0.862  0.206
+St2          -0.344  0.158
+St3           0.330  0.239
+converged at iteration 50 with logLik: 42.75887 
+Initial state probabilities model 
+pr1 pr2 pr3 
+  1   0   0 
+
+Transition matrix 
+        toS1  toS2  toS3
+fromS1 0.989 0.000 0.011
+fromS2 0.000 0.981 0.019
+fromS3 0.022 0.018 0.960
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1          -0.266  0.385
+St2          -1.289  0.141
+St3          -0.953  0.100
+converged at iteration 36 with logLik: -33.32253 
+Initial state probabilities model 
+pr1 pr2 pr3 
+  0   0   1 
+
+Transition matrix 
+        toS1  toS2  toS3
+fromS1 0.973 0.019 0.008
+fromS2 0.030 0.970 0.000
+fromS3 0.017 0.000 0.983
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1          -0.056  0.372
+St2          -0.057  0.071
+St3           1.040  0.390
+converged at iteration 48 with logLik: 470.7709 
+Initial state probabilities model 
+pr1 pr2 pr3 
+  0   0   1 
+
+Transition matrix 
+        toS1  toS2  toS3
+fromS1 0.987 0.013 0.000
+fromS2 0.028 0.960 0.011
+fromS3 0.000 0.007 0.993
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1          -1.148  0.133
+St2          -0.825  0.064
+St3          -0.381  0.190
+converged at iteration 55 with logLik: 549.8619 
+Initial state probabilities model 
+pr1 pr2 pr3 
+  0   0   1 
+
+Transition matrix 
+        toS1  toS2  toS3
+fromS1 0.973 0.014 0.014
+fromS2 0.017 0.983 0.000
+fromS3 0.020 0.000 0.980
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1          -0.803  0.079
+St2          -1.123  0.098
+St3          -0.335  0.245
+converged at iteration 32 with logLik: 32.66824 
+Initial state probabilities model 
+pr1 pr2 pr3 
+  0   0   1 
+
+Transition matrix 
+        toS1  toS2  toS3
+fromS1 0.989 0.011 0.000
+fromS2 0.018 0.964 0.018
+fromS3 0.000 0.013 0.987
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           1.003  0.688
+St2          -0.158  0.141
+St3          -0.588  0.130
+converged at iteration 35 with logLik: -700.0018 
+Initial state probabilities model 
+pr1 pr2 pr3 
+  0   0   1 
+
+Transition matrix 
+        toS1  toS2  toS3
+fromS1 0.987 0.008 0.005
+fromS2 0.011 0.989 0.000
+fromS3 0.012 0.000 0.988
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.413  0.362
+St2          -0.605  0.237
+St3           3.030  1.911
+converged at iteration 27 with logLik: -95.02268 
+Initial state probabilities model 
+pr1 pr2 pr3 
+  0   0   1 
+
+Transition matrix 
+        toS1  toS2  toS3
+fromS1 0.977 0.023 0.000
+fromS2 0.011 0.975 0.014
+fromS3 0.000 0.008 0.992
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           1.179  0.354
+St2           0.312  0.222
+St3          -0.492  0.253
+converged at iteration 39 with logLik: 120.8775 
+Initial state probabilities model 
+pr1 pr2 pr3 
+  0   0   1 
+
+Transition matrix 
+        toS1  toS2  toS3
+fromS1 0.990 0.010 0.000
+fromS2 0.009 0.975 0.015
+fromS3 0.000 0.016 0.984
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1          -1.404  0.139
+St2          -0.999  0.110
+St3          -0.311  0.413
+converged at iteration 49 with logLik: 79.8304 
+Initial state probabilities model 
+pr1 pr2 pr3 
+  0   0   1 
+
+Transition matrix 
+        toS1  toS2  toS3
+fromS1 0.975 0.016 0.009
+fromS2 0.014 0.986 0.000
+fromS3 0.013 0.000 0.987
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1          -0.613  0.145
+St2          -1.101  0.192
+St3           0.063  0.332
+converged at iteration 38 with logLik: 422.1702 
+Initial state probabilities model 
+pr1 pr2 pr3 
+  0   1   0 
+
+Transition matrix 
+        toS1  toS2  toS3
+fromS1 0.985 0.015 0.000
+fromS2 0.011 0.978 0.011
+fromS3 0.000 0.016 0.984
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1          -0.778  0.101
+St2          -0.437  0.101
+St3           0.155  0.328
+converged at iteration 34 with logLik: -99.61019 
+Initial state probabilities model 
+pr1 pr2 pr3 
+  0   1   0 
+
+Transition matrix 
+        toS1  toS2  toS3
+fromS1 0.978 0.000 0.022
+fromS2 0.000 0.985 0.015
+fromS3 0.024 0.014 0.962
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1          -0.598  0.199
+St2           0.782  0.531
+St3          -0.097  0.129
+converged at iteration 43 with logLik: -277.8845 
+Initial state probabilities model 
+pr1 pr2 pr3 
+  0   0   1 
+
+Transition matrix 
+        toS1  toS2  toS3
+fromS1 0.983 0.000 0.017
+fromS2 0.000 0.985 0.015
+fromS3 0.015 0.012 0.974
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1          -0.392  0.269
+St2           1.615  0.815
+St3           0.267  0.163
+converged at iteration 52 with logLik: 831.1855 
+Initial state probabilities model 
+pr1 pr2 pr3 
+  1   0   0 
+
+Transition matrix 
+        toS1  toS2  toS3
+fromS1 0.988 0.000 0.012
+fromS2 0.000 0.982 0.018
+fromS3 0.009 0.012 0.979
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1          -1.260  0.093
+St2          -0.676  0.112
+St3          -1.002  0.076
+converged at iteration 45 with logLik: 342.2221 
+Initial state probabilities model 
+pr1 pr2 pr3 
+  1   0   0 
+
+Transition matrix 
+        toS1  toS2  toS3
+fromS1 0.969 0.014 0.017
+fromS2 0.010 0.990 0.000
+fromS3 0.024 0.000 0.976
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1          -0.476  0.106
+St2          -0.995  0.207
+St3          -0.082  0.151
+converged at iteration 53 with logLik: 38.68485 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 
+  0   1   0   0 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4
+fromS1 0.984 0.000 0.016 0.000
+fromS2 0.000 0.952 0.026 0.021
+fromS3 0.017 0.022 0.961 0.000
+fromS4 0.000 0.010 0.000 0.990
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           1.836  0.391
+St2           0.348  0.152
+St3           0.923  0.151
+St4          -0.288  0.242
+converged at iteration 25 with logLik: -151.7121 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 
+  0   0   0   1 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4
+fromS1 1.000 0.000 0.000 0.000
+fromS2 0.000 0.971 0.014 0.014
+fromS3 0.000 0.011 0.989 0.000
+fromS4 0.006 0.025 0.000 0.968
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           3.016  1.118
+St2           0.465  0.151
+St3          -0.300  0.253
+St4           1.250  0.362
+converged at iteration 46 with logLik: 38.51889 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 
+  1   0   0   0 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4
+fromS1 0.982 0.000 0.000 0.018
+fromS2 0.000 0.985 0.010 0.005
+fromS3 0.000 0.018 0.982 0.000
+fromS4 0.014 0.014 0.000 0.973
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           1.791  0.472
+St2          -0.398  0.199
+St3          -1.034  0.157
+St4           0.511  0.246
+converged at iteration 173 with logLik: 331.6849 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 
+  1   0   0   0 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4
+fromS1 0.978 0.022 0.000 0.000
+fromS2 0.010 0.974 0.000 0.016
+fromS3 0.000 0.000 0.965 0.035
+fromS4 0.000 0.015 0.019 0.966
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           1.023  0.398
+St2           0.102  0.181
+St3          -0.605  0.108
+St4          -0.358  0.078
+converged at iteration 77 with logLik: -226.0699 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 
+  0   0   1   0 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4
+fromS1 0.985 0.000 0.015 0.000
+fromS2 0.000 0.940 0.034 0.026
+fromS3 0.020 0.034 0.946 0.000
+fromS4 0.000 0.010 0.000 0.990
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           2.231  0.381
+St2           0.758  0.142
+St3           1.189  0.142
+St4          -0.313  0.419
+converged at iteration 54 with logLik: 165.9766 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 
+  0   0   0   1 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4
+fromS1 0.973 0.027 0.000 0.000
+fromS2 0.010 0.967 0.023 0.000
+fromS3 0.000 0.025 0.961 0.014
+fromS4 0.000 0.000 0.020 0.980
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           1.059  0.279
+St2           0.377  0.170
+St3          -0.217  0.141
+St4          -0.719  0.225
+converged at iteration 66 with logLik: -68.37157 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 
+  0   0   1   0 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4
+fromS1 0.984 0.000 0.000 0.016
+fromS2 0.000 0.955 0.020 0.024
+fromS3 0.000 0.021 0.979 0.000
+fromS4 0.024 0.030 0.000 0.947
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.845  0.213
+St2           1.866  0.111
+St3           2.898  0.782
+St4           1.490  0.098
+converged at iteration 40 with logLik: 210.1724 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 
+  0   0   0   1 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4
+fromS1 0.981 0.000 0.019 0.000
+fromS2 0.000 0.966 0.027 0.007
+fromS3 0.026 0.013 0.961 0.000
+fromS4 0.000 0.008 0.000 0.992
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1          -0.922  0.150
+St2          -0.062  0.118
+St3          -0.442  0.104
+St4           0.833  0.442
+converged at iteration 102 with logLik: 369.7886 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 
+  0   0   0   1 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4
+fromS1 0.978 0.000 0.000 0.022
+fromS2 0.000 0.974 0.010 0.016
+fromS3 0.000 0.032 0.968 0.000
+fromS4 0.020 0.019 0.000 0.961
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1          -0.513  0.129
+St2           0.550  0.132
+St3           1.054  0.233
+St4           0.033  0.153
+converged at iteration 43 with logLik: -152.2593 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 
+  0   0   0   1 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4
+fromS1 0.985 0.015 0.000 0.000
+fromS2 0.010 0.973 0.000 0.017
+fromS3 0.000 0.000 0.982 0.018
+fromS4 0.000 0.034 0.023 0.943
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1          -0.397  0.308
+St2           0.446  0.198
+St3           2.165  0.452
+St4           1.072  0.174
+converged at iteration 48 with logLik: 375.9631 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 
+  0   0   0   1 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4
+fromS1 0.959 0.000 0.015 0.026
+fromS2 0.000 0.982 0.000 0.018
+fromS3 0.019 0.000 0.981 0.000
+fromS4 0.020 0.013 0.000 0.968
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1          -0.683  0.074
+St2           0.333  0.238
+St3          -1.039  0.154
+St4          -0.324  0.150
+converged at iteration 36 with logLik: 406.3017 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 
+  1   0   0   0 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4
+fromS1 0.985 0.000 0.015 0.000
+fromS2 0.000 0.981 0.000 0.019
+fromS3 0.011 0.000 0.970 0.018
+fromS4 0.000 0.018 0.023 0.959
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.106  0.303
+St2          -1.290  0.140
+St3          -0.546  0.111
+St4          -0.959  0.094
+converged at iteration 38 with logLik: 312.2486 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 
+  1   0   0   0 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4
+fromS1 0.983 0.000 0.017 0.000
+fromS2 0.000 0.955 0.020 0.025
+fromS3 0.014 0.023 0.963 0.000
+fromS4 0.000 0.017 0.000 0.983
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           1.031  0.392
+St2          -0.029  0.049
+St3           0.234  0.109
+St4          -0.360  0.222
+converged at iteration 44 with logLik: 746.6311 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 
+  0   0   1   0 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4
+fromS1 0.987 0.013 0.000 0.000
+fromS2 0.028 0.961 0.011 0.000
+fromS3 0.000 0.012 0.972 0.016
+fromS4 0.000 0.000 0.027 0.973
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1          -1.148  0.132
+St2          -0.825  0.064
+St3          -0.509  0.081
+St4          -0.166  0.106
+converged at iteration 42 with logLik: 715.8303 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 
+  1   0   0   0 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4
+fromS1 0.980 0.000 0.000 0.020
+fromS2 0.000 0.983 0.017 0.000
+fromS3 0.000 0.039 0.922 0.039
+fromS4 0.016 0.000 0.016 0.969
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1          -0.333  0.244
+St2          -1.166  0.069
+St3          -0.955  0.042
+St4          -0.785  0.069
+converged at iteration 39 with logLik: 224.4877 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 
+  0   1   0   0 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4
+fromS1 0.944 0.000 0.025 0.031
+fromS2 0.000 0.977 0.000 0.023
+fromS3 0.011 0.000 0.989 0.000
+fromS4 0.037 0.037 0.000 0.927
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1          -0.079  0.112
+St2          -0.637  0.104
+St3           1.018  0.684
+St4          -0.379  0.066
+converged at iteration 66 with logLik: -444.8838 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 
+  1   0   0   0 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4
+fromS1 0.988 0.000 0.000 0.012
+fromS2 0.000 0.983 0.017 0.000
+fromS3 0.000 0.013 0.969 0.018
+fromS4 0.008 0.000 0.016 0.976
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           3.051  1.911
+St2          -0.751  0.142
+St3          -0.136  0.196
+St4           0.632  0.256
+converged at iteration 36 with logLik: 199.4096 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 
+  0   0   1   0 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4
+fromS1 0.975 0.000 0.014 0.011
+fromS2 0.000 0.984 0.016 0.000
+fromS3 0.014 0.014 0.973 0.000
+fromS4 0.023 0.000 0.000 0.977
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.315  0.220
+St2          -0.757  0.147
+St3          -0.316  0.123
+St4           1.179  0.354
+converged at iteration 87 with logLik: 421.1564 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 
+  1   0   0   0 
+
+Transition matrix 
+        toS1 toS2  toS3  toS4
+fromS1 0.974 0.00 0.026 0.000
+fromS2 0.000 0.99 0.000 0.010
+fromS3 0.012 0.00 0.963 0.025
+fromS4 0.000 0.01 0.017 0.972
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.082  0.335
+St2          -1.405  0.138
+St3          -0.634  0.126
+St4          -1.022  0.094
+converged at iteration 52 with logLik: 396.49 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 
+  1   0   0   0 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4
+fromS1 0.979 0.000 0.000 0.021
+fromS2 0.000 0.988 0.012 0.000
+fromS3 0.000 0.011 0.970 0.019
+fromS4 0.011 0.000 0.023 0.966
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.236  0.286
+St2          -1.228  0.134
+St3          -0.805  0.097
+St4          -0.395  0.131
+converged at iteration 54 with logLik: 661.1778 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 
+  1   0   0   0 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4
+fromS1 0.953 0.000 0.023 0.023
+fromS2 0.000 0.985 0.015 0.000
+fromS3 0.013 0.017 0.970 0.000
+fromS4 0.018 0.000 0.000 0.982
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1          -0.302  0.066
+St2          -0.781  0.099
+St3          -0.506  0.056
+St4           0.209  0.318
+converged at iteration 56 with logLik: 87.13544 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 
+  0   0   0   1 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4
+fromS1 0.975 0.025 0.000 0.000
+fromS2 0.018 0.958 0.023 0.000
+fromS3 0.000 0.026 0.957 0.017
+fromS4 0.000 0.000 0.015 0.985
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1          -0.792  0.126
+St2          -0.393  0.110
+St3          -0.040  0.113
+St4           0.803  0.527
+converged at iteration 33 with logLik: -64.50493 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 
+  1   0   0   0 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4
+fromS1 0.973 0.014 0.000 0.014
+fromS2 0.015 0.985 0.000 0.000
+fromS3 0.000 0.000 0.980 0.020
+fromS4 0.017 0.000 0.009 0.974
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.304  0.135
+St2           1.607  0.816
+St3          -0.709  0.164
+St4          -0.175  0.143
+converged at iteration 47 with logLik: 1014.964 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 
+  1   0   0   0 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4
+fromS1 0.970 0.030 0.000 0.000
+fromS2 0.015 0.965 0.000 0.021
+fromS3 0.000 0.000 0.982 0.018
+fromS4 0.000 0.011 0.012 0.977
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1          -1.352  0.067
+St2          -1.196  0.042
+St3          -0.675  0.112
+St4          -0.999  0.075
+converged at iteration 155 with logLik: 601.9921 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 
+  1   0   0   0 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4
+fromS1 0.971 0.000 0.000 0.029
+fromS2 0.000 0.976 0.024 0.000
+fromS3 0.000 0.017 0.965 0.017
+fromS4 0.017 0.000 0.014 0.969
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1          -0.085  0.153
+St2          -1.208  0.123
+St3          -0.842  0.084
+St4          -0.476  0.105
+converged at iteration 56 with logLik: 283.3135 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 pr5 
+  0   0   0   1   0 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4  toS5
+fromS1 0.984 0.000 0.000 0.016 0.000
+fromS2 0.000 0.973 0.027 0.000 0.000
+fromS3 0.000 0.024 0.957 0.000 0.019
+fromS4 0.016 0.000 0.000 0.958 0.027
+fromS5 0.000 0.000 0.021 0.027 0.952
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           1.836  0.391
+St2          -0.500  0.188
+St3          -0.111  0.080
+St4           0.912  0.159
+St5           0.332  0.148
+converged at iteration 111 with logLik: 51.03248 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 pr5 
+  0   1   0   0   0 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4  toS5
+fromS1 0.962 0.000 0.019 0.000 0.019
+fromS2 0.000 0.985 0.000 0.015 0.000
+fromS3 0.029 0.000 0.971 0.000 0.000
+fromS4 0.000 0.015 0.000 0.954 0.031
+fromS5 0.027 0.000 0.000 0.040 0.933
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1          -0.154  0.119
+St2           2.179  1.109
+St3          -0.571  0.143
+St4           0.658  0.137
+St5           0.312  0.107
+converged at iteration 100 with logLik: 295.8732 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 pr5 
+  0   0   0   0   1 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4  toS5
+fromS1 0.982 0.018 0.000 0.000 0.000
+fromS2 0.017 0.965 0.017 0.000 0.000
+fromS3 0.000 0.021 0.968 0.011 0.000
+fromS4 0.000 0.000 0.014 0.972 0.014
+fromS5 0.000 0.000 0.000 0.018 0.982
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1          -1.040  0.152
+St2          -0.555  0.097
+St3          -0.205  0.113
+St4           0.519  0.238
+St5           1.790  0.473
+converged at iteration 53 with logLik: 491.6146 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 pr5 
+  1   0   0   0   0 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4  toS5
+fromS1 0.936 0.000 0.000 0.021 0.042
+fromS2 0.000 0.975 0.025 0.000 0.000
+fromS3 0.000 0.039 0.937 0.000 0.024
+fromS4 0.020 0.000 0.000 0.980 0.000
+fromS5 0.027 0.000 0.026 0.000 0.947
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.330  0.123
+St2          -0.539  0.118
+St3          -0.312  0.058
+St4           1.109  0.363
+St5          -0.013  0.106
+converged at iteration 49 with logLik: 85.00887 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 pr5 
+  0   0   1   0   0 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4  toS5
+fromS1 0.932 0.000 0.039 0.000 0.030
+fromS2 0.000 0.987 0.000 0.000 0.013
+fromS3 0.035 0.000 0.945 0.020 0.000
+fromS4 0.000 0.000 0.015 0.985 0.000
+fromS5 0.023 0.017 0.000 0.000 0.959
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.795  0.106
+St2          -0.615  0.207
+St3           1.190  0.141
+St4           2.230  0.381
+St5           0.188  0.179
+converged at iteration 68 with logLik: 1500.471 
+Initial state probabilities model 
+pr1 pr2 
+  0   1 
+
+Transition matrix 
+        toS1  toS2
+fromS1 0.991 0.009
+fromS2 0.009 0.991
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.158  0.029
+St2           0.294  0.066
+converged at iteration 14 with logLik: 1196.312 
+Initial state probabilities model 
+pr1 pr2 
+  1   0 
+
+Transition matrix 
+        toS1  toS2
+fromS1 0.985 0.015
+fromS2 0.004 0.996
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.416  0.122
+St2           0.194  0.051
+converged at iteration 11 with logLik: 1436.333 
+Initial state probabilities model 
+pr1 pr2 
+  1   0 
+
+Transition matrix 
+        toS1  toS2
+fromS1 0.992 0.008
+fromS2 0.003 0.997
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.303  0.080
+St2           0.118  0.039
+converged at iteration 25 with logLik: 1786.939 
+Initial state probabilities model 
+pr1 pr2 
+  1   0 
+
+Transition matrix 
+        toS1  toS2
+fromS1 0.986 0.014
+fromS2 0.011 0.989
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.243  0.056
+St2           0.141  0.019
+converged at iteration 62 with logLik: 1209.039 
+Initial state probabilities model 
+pr1 pr2 
+  0   1 
+
+Transition matrix 
+        toS1  toS2
+fromS1 0.990 0.010
+fromS2 0.008 0.992
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.151  0.046
+St2           0.346  0.075
+converged at iteration 33 with logLik: 1654.178 
+Initial state probabilities model 
+pr1 pr2 
+  1   0 
+
+Transition matrix 
+        toS1  toS2
+fromS1 0.985 0.015
+fromS2 0.016 0.984
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.137  0.033
+St2           0.244  0.041
+converged at iteration 18 with logLik: 1225.807 
+Initial state probabilities model 
+pr1 pr2 
+  1   0 
+
+Transition matrix 
+        toS1  toS2
+fromS1 0.979 0.021
+fromS2 0.008 0.992
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.500  0.086
+St2           0.342  0.050
+converged at iteration 22 with logLik: 1572.179 
+Initial state probabilities model 
+pr1 pr2 
+  1   0 
+
+Transition matrix 
+        toS1  toS2
+fromS1 0.986 0.014
+fromS2 0.007 0.993
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.248  0.058
+St2           0.113  0.032
+converged at iteration 42 with logLik: 1809.322 
+Initial state probabilities model 
+pr1 pr2 
+  1   0 
+
+Transition matrix 
+        toS1  toS2
+fromS1 0.989 0.011
+fromS2 0.011 0.989
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.156  0.031
+St2           0.253  0.031
+converged at iteration 28 with logLik: 1217.661 
+Initial state probabilities model 
+pr1 pr2 
+  0   1 
+
+Transition matrix 
+        toS1  toS2
+fromS1 0.991 0.009
+fromS2 0.017 0.983
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.201  0.055
+St2           0.376  0.068
+converged at iteration 32 with logLik: 1809.143 
+Initial state probabilities model 
+pr1 pr2 
+  0   1 
+
+Transition matrix 
+        toS1  toS2
+fromS1 0.988 0.012
+fromS2 0.018 0.982
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.106  0.028
+St2           0.197  0.036
+converged at iteration 23 with logLik: 1806.651 
+Initial state probabilities model 
+pr1 pr2 
+  0   1 
+
+Transition matrix 
+        toS1  toS2
+fromS1 0.988 0.012
+fromS2 0.011 0.989
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.062  0.022
+St2           0.155  0.042
+converged at iteration 22 with logLik: 1712.913 
+Initial state probabilities model 
+pr1 pr2 
+  0   1 
+
+Transition matrix 
+        toS1  toS2
+fromS1 0.989 0.011
+fromS2 0.017 0.983
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.174  0.022
+St2           0.266  0.065
+converged at iteration 56 with logLik: 2178.368 
+Initial state probabilities model 
+pr1 pr2 
+  1   0 
+
+Transition matrix 
+        toS1  toS2
+fromS1 0.993 0.007
+fromS2 0.004 0.996
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.143  0.021
+St2           0.072  0.021
+converged at iteration 16 with logLik: 2129.018 
+Initial state probabilities model 
+pr1 pr2 
+  1   0 
+
+Transition matrix 
+        toS1  toS2
+fromS1 0.980 0.020
+fromS2 0.008 0.992
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.148  0.027
+St2           0.084  0.019
+converged at iteration 13 with logLik: 1679.892 
+Initial state probabilities model 
+pr1 pr2 
+  1   0 
+
+Transition matrix 
+        toS1  toS2
+fromS1 0.993 0.007
+fromS2 0.010 0.990
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.136  0.025
+St2           0.285  0.077
+converged at iteration 11 with logLik: 874.4844 
+Initial state probabilities model 
+pr1 pr2 
+  1   0 
+
+Transition matrix 
+        toS1  toS2
+fromS1 0.988 0.012
+fromS2 0.003 0.997
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.508  0.208
+St2           0.181  0.064
+converged at iteration 18 with logLik: 1651.175 
+Initial state probabilities model 
+pr1 pr2 
+  0   1 
+
+Transition matrix 
+        toS1  toS2
+fromS1 0.990 0.010
+fromS2 0.008 0.992
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.250  0.052
+St2           0.132  0.028
+converged at iteration 22 with logLik: 1778.239 
+Initial state probabilities model 
+pr1 pr2 
+  1   0 
+
+Transition matrix 
+        toS1  toS2
+fromS1 0.984 0.016
+fromS2 0.010 0.990
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.150  0.045
+St2           0.058  0.025
+converged at iteration 26 with logLik: 1763.502 
+Initial state probabilities model 
+pr1 pr2 
+  1   0 
+
+Transition matrix 
+        toS1  toS2
+fromS1 0.986 0.014
+fromS2 0.011 0.989
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.175  0.040
+St2           0.083  0.027
+converged at iteration 31 with logLik: 2023.775 
+Initial state probabilities model 
+pr1 pr2 
+  1   0 
+
+Transition matrix 
+        toS1  toS2
+fromS1 0.989 0.011
+fromS2 0.006 0.994
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.186  0.038
+St2           0.115  0.018
+converged at iteration 23 with logLik: 1571.527 
+Initial state probabilities model 
+pr1 pr2 
+  1   0 
+
+Transition matrix 
+        toS1  toS2
+fromS1 0.988 0.012
+fromS2 0.006 0.994
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.264  0.059
+St2           0.145  0.032
+converged at iteration 10 with logLik: 1328.52 
+Initial state probabilities model 
+pr1 pr2 
+  0   1 
+
+Transition matrix 
+        toS1  toS2
+fromS1 0.984 0.016
+fromS2 0.006 0.994
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.364  0.088
+St2           0.182  0.044
+converged at iteration 37 with logLik: 2465.986 
+Initial state probabilities model 
+pr1 pr2 
+  1   0 
+
+Transition matrix 
+        toS1  toS2
+fromS1 0.987 0.013
+fromS2 0.014 0.986
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.054  0.013
+St2           0.097  0.018
+converged at iteration 46 with logLik: 2040.767 
+Initial state probabilities model 
+pr1 pr2 
+  1   0 
+
+Transition matrix 
+        toS1  toS2
+fromS1 0.992 0.008
+fromS2 0.010 0.990
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.152  0.025
+St2           0.077  0.023
+converged at iteration 30 with logLik: 1775.893 
+Initial state probabilities model 
+pr1 pr2 pr3 
+  0   1   0 
+
+Transition matrix 
+        toS1  toS2  toS3
+fromS1 0.991 0.009 0.000
+fromS2 0.012 0.980 0.009
+fromS3 0.000 0.016 0.984
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.156  0.028
+St2           0.256  0.033
+St3           0.382  0.044
+converged at iteration 35 with logLik: 1680.455 
+Initial state probabilities model 
+pr1 pr2 pr3 
+  0   1   0 
+
+Transition matrix 
+        toS1  toS2  toS3
+fromS1 0.989 0.000 0.011
+fromS2 0.000 0.985 0.015
+fromS3 0.012 0.009 0.979
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.152  0.027
+St2           0.421  0.121
+St3           0.242  0.022
+converged at iteration 21 with logLik: 1632.605 
+Initial state probabilities model 
+pr1 pr2 pr3 
+  0   1   0 
+
+Transition matrix 
+        toS1  toS2  toS3
+fromS1 0.997 0.000 0.003
+fromS2 0.000 0.982 0.018
+fromS3 0.014 0.014 0.973
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.118  0.039
+St2           0.380  0.051
+St3           0.241  0.027
+converged at iteration 60 with logLik: 2130.654 
+Initial state probabilities model 
+pr1 pr2 pr3 
+  0   0   1 
+
+Transition matrix 
+        toS1  toS2  toS3
+fromS1 0.974 0.017 0.010
+fromS2 0.010 0.990 0.000
+fromS3 0.022 0.000 0.978
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.197  0.020
+St2           0.137  0.016
+St3           0.297  0.043
+converged at iteration 29 with logLik: 1606.021 
+Initial state probabilities model 
+pr1 pr2 pr3 
+  0   0   1 
+
+Transition matrix 
+        toS1  toS2  toS3
+fromS1 0.990 0.000 0.010
+fromS2 0.000 0.985 0.015
+fromS3 0.013 0.010 0.977
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.152  0.046
+St2           0.428  0.042
+St3           0.291  0.028
+converged at iteration 42 with logLik: 1890.142 
+Initial state probabilities model 
+pr1 pr2 pr3 
+  0   0   1 
+
+Transition matrix 
+        toS1  toS2  toS3
+fromS1 0.963 0.017 0.020
+fromS2 0.030 0.970 0.000
+fromS3 0.014 0.000 0.986
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.214  0.020
+St2           0.285  0.034
+St3           0.133  0.031
+converged at iteration 46 with logLik: 1661.101 
+Initial state probabilities model 
+pr1 pr2 pr3 
+  0   0   1 
+
+Transition matrix 
+        toS1  toS2  toS3
+fromS1 0.978 0.010 0.012
+fromS2 0.015 0.985 0.000
+fromS3 0.021 0.000 0.979
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.373  0.023
+St2           0.279  0.025
+St3           0.502  0.085
+converged at iteration 40 with logLik: 1946.552 
+Initial state probabilities model 
+pr1 pr2 pr3 
+  0   1   0 
+
+Transition matrix 
+        toS1  toS2  toS3
+fromS1 0.981 0.000 0.019
+fromS2 0.000 0.985 0.015
+fromS3 0.020 0.014 0.966
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.084  0.016
+St2           0.252  0.057
+St3           0.142  0.016
+converged at iteration 86 with logLik: 2144.397 
+Initial state probabilities model 
+pr1 pr2 pr3 
+  1   0   0 
+
+Transition matrix 
+        toS1  toS2  toS3
+fromS1 0.960 0.020 0.020
+fromS2 0.012 0.988 0.000
+fromS3 0.022 0.000 0.978
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.188  0.016
+St2           0.257  0.029
+St3           0.129  0.014
+converged at iteration 34 with logLik: 1564.951 
+Initial state probabilities model 
+pr1 pr2 pr3 
+  0   0   1 
+
+Transition matrix 
+        toS1  toS2  toS3
+fromS1 0.985 0.015 0.000
+fromS2 0.009 0.976 0.015
+fromS3 0.000 0.017 0.983
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.142  0.034
+St2           0.239  0.025
+St3           0.378  0.067
+converged at iteration 44 with logLik: 2124.877 
+Initial state probabilities model 
+pr1 pr2 pr3 
+  0   1   0 
+
+Transition matrix 
+        toS1  toS2  toS3
+fromS1 0.985 0.015 0.000
+fromS2 0.018 0.970 0.012
+fromS3 0.000 0.018 0.982
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.091  0.022
+St2           0.148  0.017
+St3           0.221  0.026
+converged at iteration 40 with logLik: 2031.147 
+Initial state probabilities model 
+pr1 pr2 pr3 
+  1   0   0 
+
+Transition matrix 
+        toS1  toS2  toS3
+fromS1 0.989 0.000 0.011
+fromS2 0.000 0.981 0.019
+fromS3 0.022 0.018 0.960
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.156  0.042
+St2           0.045  0.015
+St3           0.081  0.011
+converged at iteration 33 with logLik: 1955.065 
+Initial state probabilities model 
+pr1 pr2 pr3 
+  0   0   1 
+
+Transition matrix 
+        toS1  toS2  toS3
+fromS1 0.973 0.019 0.008
+fromS2 0.030 0.970 0.000
+fromS3 0.017 0.000 0.983
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.179  0.041
+St2           0.179  0.008
+St3           0.298  0.043
+converged at iteration 46 with logLik: 2459.159 
+Initial state probabilities model 
+pr1 pr2 pr3 
+  0   0   1 
+
+Transition matrix 
+        toS1  toS2  toS3
+fromS1 0.987 0.013 0.000
+fromS2 0.028 0.960 0.011
+fromS3 0.000 0.007 0.993
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.060  0.014
+St2           0.095  0.007
+St3           0.144  0.021
+converged at iteration 49 with logLik: 2538.25 
+Initial state probabilities model 
+pr1 pr2 pr3 
+  0   0   1 
+
+Transition matrix 
+        toS1  toS2  toS3
+fromS1 0.973 0.014 0.014
+fromS2 0.017 0.983 0.000
+fromS3 0.020 0.000 0.980
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.098  0.009
+St2           0.063  0.011
+St3           0.149  0.027
+converged at iteration 28 with logLik: 2021.056 
+Initial state probabilities model 
+pr1 pr2 pr3 
+  0   0   1 
+
+Transition matrix 
+        toS1  toS2  toS3
+fromS1 0.989 0.011 0.000
+fromS2 0.018 0.964 0.018
+fromS3 0.000 0.013 0.987
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.294  0.075
+St2           0.168  0.015
+St3           0.121  0.014
+converged at iteration 34 with logLik: 1288.386 
+Initial state probabilities model 
+pr1 pr2 pr3 
+  0   0   1 
+
+Transition matrix 
+        toS1  toS2  toS3
+fromS1 0.987 0.008 0.005
+fromS2 0.011 0.989 0.000
+fromS3 0.012 0.000 0.988
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.230  0.039
+St2           0.119  0.026
+St3           0.515  0.208
+converged at iteration 25 with logLik: 1893.365 
+Initial state probabilities model 
+pr1 pr2 pr3 
+  0   0   1 
+
+Transition matrix 
+        toS1  toS2  toS3
+fromS1 0.977 0.023 0.000
+fromS2 0.011 0.975 0.014
+fromS3 0.000 0.008 0.992
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.314  0.039
+St2           0.219  0.024
+St3           0.131  0.028
+converged at iteration 34 with logLik: 2109.265 
+Initial state probabilities model 
+pr1 pr2 pr3 
+  0   0   1 
+
+Transition matrix 
+        toS1  toS2  toS3
+fromS1 0.990 0.010 0.000
+fromS2 0.009 0.975 0.015
+fromS3 0.000 0.016 0.984
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.032  0.015
+St2           0.076  0.012
+St3           0.151  0.045
+converged at iteration 44 with logLik: 2068.218 
+Initial state probabilities model 
+pr1 pr2 pr3 
+  0   0   1 
+
+Transition matrix 
+        toS1  toS2  toS3
+fromS1 0.975 0.016 0.009
+fromS2 0.014 0.986 0.000
+fromS3 0.013 0.000 0.987
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.118  0.016
+St2           0.065  0.021
+St3           0.192  0.036
+converged at iteration 36 with logLik: 2410.558 
+Initial state probabilities model 
+pr1 pr2 pr3 
+  0   1   0 
+
+Transition matrix 
+        toS1  toS2  toS3
+fromS1 0.985 0.015 0.000
+fromS2 0.011 0.978 0.011
+fromS3 0.000 0.015 0.985
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.100  0.011
+St2           0.137  0.011
+St3           0.202  0.036
+converged at iteration 30 with logLik: 1888.778 
+Initial state probabilities model 
+pr1 pr2 pr3 
+  0   1   0 
+
+Transition matrix 
+        toS1  toS2  toS3
+fromS1 0.978 0.000 0.022
+fromS2 0.000 0.985 0.015
+fromS3 0.024 0.014 0.962
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.120  0.022
+St2           0.270  0.058
+St3           0.174  0.014
+converged at iteration 38 with logLik: 1710.503 
+Initial state probabilities model 
+pr1 pr2 pr3 
+  0   0   1 
+
+Transition matrix 
+        toS1  toS2  toS3
+fromS1 0.983 0.000 0.017
+fromS2 0.000 0.985 0.015
+fromS3 0.015 0.012 0.974
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.142  0.029
+St2           0.361  0.089
+St3           0.214  0.018
+converged at iteration 50 with logLik: 2819.574 
+Initial state probabilities model 
+pr1 pr2 pr3 
+  1   0   0 
+
+Transition matrix 
+        toS1  toS2  toS3
+fromS1 0.988 0.000 0.012
+fromS2 0.000 0.982 0.018
+fromS3 0.009 0.012 0.979
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.048  0.010
+St2           0.111  0.012
+St3           0.076  0.008
+converged at iteration 44 with logLik: 2330.61 
+Initial state probabilities model 
+pr1 pr2 pr3 
+  1   0   0 
+
+Transition matrix 
+        toS1  toS2  toS3
+fromS1 0.969 0.014 0.017
+fromS2 0.010 0.990 0.000
+fromS3 0.024 0.000 0.976
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.133  0.012
+St2           0.077  0.023
+St3           0.176  0.016
+converged at iteration 43 with logLik: 2027.073 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 
+  0   1   0   0 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4
+fromS1 0.984 0.000 0.016 0.000
+fromS2 0.000 0.952 0.027 0.021
+fromS3 0.017 0.022 0.961 0.000
+fromS4 0.000 0.010 0.000 0.990
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.385  0.043
+St2           0.223  0.017
+St3           0.286  0.016
+St4           0.154  0.026
+converged at iteration 22 with logLik: 1836.676 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 
+  0   0   0   1 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4
+fromS1 1.000 0.000 0.000 0.000
+fromS2 0.000 0.971 0.014 0.014
+fromS3 0.000 0.011 0.989 0.000
+fromS4 0.006 0.025 0.000 0.968
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.514  0.122
+St2           0.236  0.016
+St3           0.152  0.028
+St4           0.321  0.039
+converged at iteration 41 with logLik: 2026.907 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 
+  1   0   0   0 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4
+fromS1 0.982 0.000 0.000 0.018
+fromS2 0.000 0.985 0.010 0.005
+fromS3 0.000 0.018 0.982 0.000
+fromS4 0.014 0.014 0.000 0.973
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.380  0.051
+St2           0.142  0.022
+St3           0.072  0.017
+St4           0.241  0.027
+converged at iteration 56 with logLik: 2317.717 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 
+  1   0   0   0 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4
+fromS1 0.975 0.025 0.000 0.000
+fromS2 0.014 0.968 0.000 0.018
+fromS3 0.000 0.000 0.965 0.035
+fromS4 0.000 0.015 0.019 0.965
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.289  0.046
+St2           0.193  0.018
+St3           0.119  0.012
+St4           0.146  0.008
+converged at iteration 70 with logLik: 1762.318 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 
+  0   0   1   0 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4
+fromS1 0.985 0.000 0.015 0.000
+fromS2 0.000 0.940 0.034 0.026
+fromS3 0.020 0.034 0.946 0.000
+fromS4 0.000 0.010 0.000 0.990
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.428  0.041
+St2           0.268  0.015
+St3           0.315  0.015
+St4           0.151  0.046
+converged at iteration 47 with logLik: 2154.365 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 
+  0   0   0   1 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4
+fromS1 0.973 0.027 0.000 0.000
+fromS2 0.010 0.967 0.023 0.000
+fromS3 0.000 0.025 0.961 0.014
+fromS4 0.000 0.000 0.020 0.980
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.301  0.030
+St2           0.226  0.018
+St3           0.161  0.015
+St4           0.107  0.024
+converged at iteration 57 with logLik: 1920.016 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 
+  0   0   1   0 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4
+fromS1 0.984 0.000 0.000 0.016
+fromS2 0.000 0.955 0.020 0.024
+fromS3 0.000 0.021 0.979 0.000
+fromS4 0.024 0.030 0.000 0.947
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.277  0.023
+St2           0.388  0.012
+St3           0.501  0.085
+St4           0.347  0.011
+converged at iteration 35 with logLik: 2198.56 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 
+  0   0   0   1 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4
+fromS1 0.981 0.000 0.019 0.000
+fromS2 0.000 0.966 0.027 0.007
+fromS3 0.026 0.013 0.961 0.000
+fromS4 0.000 0.008 0.000 0.992
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.085  0.016
+St2           0.178  0.013
+St3           0.137  0.011
+St4           0.276  0.048
+converged at iteration 91 with logLik: 2358.177 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 
+  0   0   0   1 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4
+fromS1 0.978 0.000 0.000 0.022
+fromS2 0.000 0.974 0.010 0.016
+fromS3 0.000 0.032 0.968 0.000
+fromS4 0.020 0.019 0.000 0.961
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.129  0.014
+St2           0.245  0.014
+St3           0.300  0.025
+St4           0.189  0.017
+converged at iteration 40 with logLik: 1836.129 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 
+  0   0   0   1 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4
+fromS1 0.985 0.015 0.000 0.000
+fromS2 0.010 0.973 0.000 0.017
+fromS3 0.000 0.000 0.982 0.018
+fromS4 0.000 0.034 0.023 0.943
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.142  0.034
+St2           0.234  0.022
+St3           0.421  0.049
+St4           0.302  0.019
+converged at iteration 44 with logLik: 2364.351 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 
+  0   0   0   1 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4
+fromS1 0.959 0.000 0.015 0.026
+fromS2 0.000 0.982 0.000 0.018
+fromS3 0.019 0.000 0.981 0.000
+fromS4 0.020 0.013 0.000 0.968
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.111  0.008
+St2           0.221  0.026
+St3           0.072  0.017
+St4           0.150  0.016
+converged at iteration 32 with logLik: 2394.69 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 
+  1   0   0   0 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4
+fromS1 0.985 0.000 0.015 0.000
+fromS2 0.000 0.981 0.000 0.019
+fromS3 0.011 0.000 0.970 0.018
+fromS4 0.000 0.018 0.023 0.959
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.197  0.033
+St2           0.044  0.015
+St3           0.126  0.012
+St4           0.081  0.010
+converged at iteration 36 with logLik: 2300.637 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 
+  1   0   0   0 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4
+fromS1 0.983 0.000 0.017 0.000
+fromS2 0.000 0.955 0.020 0.025
+fromS3 0.014 0.023 0.963 0.000
+fromS4 0.000 0.017 0.000 0.983
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.297  0.043
+St2           0.182  0.005
+St3           0.211  0.012
+St4           0.146  0.024
+converged at iteration 42 with logLik: 2735.019 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 
+  0   0   1   0 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4
+fromS1 0.987 0.013 0.000 0.000
+fromS2 0.028 0.961 0.011 0.000
+fromS3 0.000 0.012 0.972 0.016
+fromS4 0.000 0.000 0.027 0.973
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.060  0.014
+St2           0.095  0.007
+St3           0.130  0.009
+St4           0.167  0.011
+converged at iteration 40 with logLik: 2704.218 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 
+  1   0   0   0 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4
+fromS1 0.980 0.000 0.000 0.020
+fromS2 0.000 0.983 0.017 0.000
+fromS3 0.000 0.039 0.922 0.039
+fromS4 0.016 0.000 0.016 0.969
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.149  0.027
+St2           0.058  0.007
+St3           0.081  0.005
+St4           0.100  0.007
+converged at iteration 35 with logLik: 2212.876 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 
+  0   1   0   0 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4
+fromS1 0.944 0.000 0.025 0.031
+fromS2 0.000 0.977 0.000 0.023
+fromS3 0.011 0.000 0.989 0.000
+fromS4 0.037 0.037 0.000 0.927
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.177  0.012
+St2           0.116  0.011
+St3           0.296  0.075
+St4           0.144  0.007
+converged at iteration 65 with logLik: 1543.504 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 
+  1   0   0   0 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4
+fromS1 0.988 0.000 0.000 0.012
+fromS2 0.000 0.983 0.017 0.000
+fromS3 0.000 0.013 0.969 0.018
+fromS4 0.008 0.000 0.016 0.976
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.518  0.208
+St2           0.103  0.015
+St3           0.170  0.021
+St4           0.254  0.028
+converged at iteration 34 with logLik: 2187.798 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 
+  0   0   1   0 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4
+fromS1 0.975 0.000 0.014 0.011
+fromS2 0.000 0.984 0.016 0.000
+fromS3 0.014 0.014 0.973 0.000
+fromS4 0.023 0.000 0.000 0.977
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.219  0.024
+St2           0.103  0.016
+St3           0.151  0.013
+St4           0.314  0.039
+converged at iteration 85 with logLik: 2409.544 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 
+  1   0   0   0 
+
+Transition matrix 
+        toS1 toS2  toS3  toS4
+fromS1 0.974 0.00 0.026 0.000
+fromS2 0.000 0.99 0.000 0.010
+fromS3 0.012 0.00 0.963 0.025
+fromS4 0.000 0.01 0.017 0.972
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.194  0.037
+St2           0.032  0.015
+St3           0.116  0.014
+St4           0.074  0.010
+converged at iteration 48 with logLik: 2384.878 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 
+  1   0   0   0 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4
+fromS1 0.979 0.000 0.000 0.021
+fromS2 0.000 0.988 0.012 0.000
+fromS3 0.000 0.011 0.970 0.019
+fromS4 0.011 0.000 0.023 0.966
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.211  0.031
+St2           0.051  0.015
+St3           0.097  0.011
+St4           0.142  0.014
+converged at iteration 50 with logLik: 2649.566 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 
+  1   0   0   0 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4
+fromS1 0.953 0.000 0.023 0.023
+fromS2 0.000 0.985 0.015 0.000
+fromS3 0.013 0.017 0.970 0.000
+fromS4 0.018 0.000 0.000 0.982
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.152  0.007
+St2           0.100  0.011
+St3           0.130  0.006
+St4           0.208  0.035
+converged at iteration 47 with logLik: 2075.523 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 
+  0   0   0   1 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4
+fromS1 0.975 0.025 0.000 0.000
+fromS2 0.018 0.958 0.023 0.000
+fromS3 0.000 0.026 0.957 0.017
+fromS4 0.000 0.000 0.015 0.985
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.099  0.014
+St2           0.142  0.012
+St3           0.181  0.012
+St4           0.273  0.057
+converged at iteration 30 with logLik: 1923.883 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 
+  1   0   0   0 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4
+fromS1 0.973 0.014 0.000 0.014
+fromS2 0.015 0.985 0.000 0.000
+fromS3 0.000 0.000 0.980 0.020
+fromS4 0.017 0.000 0.009 0.974
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.218  0.015
+St2           0.360  0.089
+St3           0.108  0.018
+St4           0.166  0.016
+converged at iteration 44 with logLik: 3003.352 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 
+  1   0   0   0 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4
+fromS1 0.970 0.030 0.000 0.000
+fromS2 0.015 0.965 0.000 0.021
+fromS3 0.000 0.000 0.982 0.018
+fromS4 0.000 0.011 0.012 0.977
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.038  0.007
+St2           0.055  0.005
+St3           0.111  0.012
+St4           0.076  0.008
+converged at iteration 154 with logLik: 2590.38 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 
+  1   0   0   0 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4
+fromS1 0.971 0.000 0.000 0.029
+fromS2 0.000 0.976 0.024 0.000
+fromS3 0.000 0.017 0.965 0.017
+fromS4 0.017 0.000 0.014 0.969
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.176  0.017
+St2           0.053  0.013
+St3           0.093  0.009
+St4           0.133  0.011
+converged at iteration 51 with logLik: 2271.701 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 pr5 
+  0   0   0   1   0 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4  toS5
+fromS1 0.984 0.000 0.000 0.016 0.000
+fromS2 0.000 0.973 0.027 0.000 0.000
+fromS3 0.000 0.024 0.957 0.000 0.019
+fromS4 0.016 0.000 0.000 0.958 0.027
+fromS5 0.000 0.000 0.021 0.027 0.952
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.385  0.043
+St2           0.131  0.020
+St3           0.173  0.009
+St4           0.284  0.017
+St5           0.221  0.016
+converged at iteration 103 with logLik: 2039.42 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 pr5 
+  0   1   0   0   0 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4  toS5
+fromS1 0.962 0.000 0.019 0.000 0.019
+fromS2 0.000 0.985 0.000 0.015 0.000
+fromS3 0.029 0.000 0.971 0.000 0.000
+fromS4 0.000 0.015 0.000 0.954 0.031
+fromS5 0.027 0.000 0.000 0.040 0.933
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.168  0.013
+St2           0.422  0.121
+St3           0.123  0.016
+St4           0.257  0.015
+St5           0.219  0.012
+converged at iteration 97 with logLik: 2284.261 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 pr5 
+  0   0   0   0   1 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4  toS5
+fromS1 0.982 0.018 0.000 0.000 0.000
+fromS2 0.017 0.965 0.017 0.000 0.000
+fromS3 0.000 0.021 0.968 0.011 0.000
+fromS4 0.000 0.000 0.014 0.972 0.014
+fromS5 0.000 0.000 0.000 0.018 0.982
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.072  0.017
+St2           0.125  0.011
+St3           0.163  0.012
+St4           0.242  0.026
+St5           0.380  0.052
+converged at iteration 46 with logLik: 2480.003 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 pr5 
+  1   0   0   0   0 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4  toS5
+fromS1 0.936 0.000 0.000 0.021 0.042
+fromS2 0.000 0.975 0.025 0.000 0.000
+fromS3 0.000 0.039 0.937 0.000 0.024
+fromS4 0.020 0.000 0.000 0.980 0.000
+fromS5 0.026 0.000 0.026 0.000 0.947
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.221  0.013
+St2           0.126  0.013
+St3           0.151  0.006
+St4           0.306  0.040
+St5           0.184  0.012
+converged at iteration 43 with logLik: 2073.397 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 pr5 
+  0   0   1   0   0 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4  toS5
+fromS1 0.932 0.000 0.039 0.000 0.030
+fromS2 0.000 0.987 0.000 0.000 0.013
+fromS3 0.035 0.000 0.945 0.020 0.000
+fromS4 0.000 0.000 0.015 0.985 0.000
+fromS5 0.023 0.017 0.000 0.000 0.959
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.272  0.012
+St2           0.118  0.023
+St3           0.315  0.015
+St4           0.428  0.042
+St5           0.206  0.020
+converged at iteration 85 with logLik: 2255.009 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 pr5 
+  1   0   0   0   0 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4  toS5
+fromS1 0.962 0.000 0.000 0.000 0.038
+fromS2 0.000 0.977 0.000 0.023 0.000
+fromS3 0.000 0.000 0.966 0.023 0.011
+fromS4 0.000 0.025 0.025 0.949 0.000
+fromS5 0.013 0.000 0.040 0.000 0.947
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.074  0.006
+St2           0.267  0.036
+St3           0.148  0.012
+St4           0.200  0.018
+St5           0.105  0.012
+converged at iteration 44 with logLik: 2024.789 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 pr5 
+  0   0   0   1   0 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4  toS5
+fromS1 0.956 0.000 0.024 0.020 0.000
+fromS2 0.000 0.967 0.000 0.000 0.033
+fromS3 0.033 0.000 0.942 0.000 0.026
+fromS4 0.021 0.000 0.000 0.979 0.000
+fromS5 0.000 0.036 0.027 0.000 0.938
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.388  0.012
+St2           0.257  0.011
+St3           0.349  0.009
+St4           0.501  0.085
+St5           0.299  0.017
+converged at iteration 40 with logLik: 2386.605 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 pr5 
+  0   0   1   0   0 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4  toS5
+fromS1 0.961 0.013 0.000 0.026 0.000
+fromS2 0.028 0.966 0.007 0.000 0.000
+fromS3 0.000 0.018 0.964 0.000 0.018
+fromS4 0.019 0.000 0.000 0.981 0.000
+fromS5 0.000 0.000 0.015 0.000 0.985
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.137  0.011
+St2           0.178  0.013
+St3           0.231  0.012
+St4           0.085  0.016
+St5           0.313  0.034
+converged at iteration 78 with logLik: 2495.852 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 pr5 
+  0   0   0   0   1 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4  toS5
+fromS1 0.969 0.000 0.000 0.031 0.000
+fromS2 0.000 0.923 0.042 0.000 0.035
+fromS3 0.000 0.021 0.979 0.000 0.000
+fromS4 0.034 0.000 0.000 0.932 0.034
+fromS5 0.000 0.033 0.000 0.039 0.928
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.121  0.008
+St2           0.226  0.009
+St3           0.269  0.026
+St4           0.158  0.013
+St5           0.194  0.008
+converged at iteration 41 with logLik: 1962.959 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 pr5 
+  0   0   1   0   0 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4  toS5
+fromS1 0.961 0.000 0.026 0.000 0.013
+fromS2 0.000 0.973 0.017 0.010 0.000
+fromS3 0.023 0.035 0.942 0.000 0.000
+fromS4 0.000 0.015 0.000 0.985 0.000
+fromS5 0.031 0.000 0.000 0.000 0.969
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.393  0.029
+St2           0.234  0.022
+St3           0.301  0.018
+St4           0.142  0.034
+St5           0.485  0.021
+converged at iteration 37 with logLik: 2583.146 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 pr5 
+  1   0   0   0   0 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4  toS5
+fromS1 0.940 0.022 0.000 0.000 0.038
+fromS2 0.019 0.981 0.000 0.000 0.000
+fromS3 0.000 0.000 0.949 0.019 0.032
+fromS4 0.000 0.000 0.019 0.981 0.000
+fromS5 0.034 0.000 0.034 0.000 0.932
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.163  0.011
+St2           0.223  0.025
+St3           0.108  0.006
+St4           0.072  0.017
+St5           0.131  0.007
+converged at iteration 30 with logLik: 2509.582 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 pr5 
+  0   0   0   0   1 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4  toS5
+fromS1 1.000 0.000 0.000 0.000 0.000
+fromS2 0.000 0.971 0.018 0.000 0.011
+fromS3 0.000 0.023 0.959 0.018 0.000
+fromS4 0.000 0.000 0.019 0.981 0.000
+fromS5 0.006 0.018 0.000 0.000 0.976
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.273  0.015
+St2           0.126  0.013
+St3           0.080  0.010
+St4           0.044  0.015
+St5           0.189  0.017
+converged at iteration 39 with logLik: 2437.311 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 pr5 
+  0   0   1   0   0 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4  toS5
+fromS1 0.974 0.000 0.006 0.000 0.019
+fromS2 0.000 0.981 0.000 0.019 0.000
+fromS3 0.000 0.023 0.977 0.000 0.000
+fromS4 0.000 0.014 0.000 0.964 0.023
+fromS5 0.015 0.000 0.000 0.015 0.969
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.145  0.011
+St2           0.287  0.028
+St3           0.261  0.155
+St4           0.211  0.012
+St5           0.179  0.008
+converged at iteration 81 with logLik: 2657.333 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 pr5 
+  1   0   0   0   0 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4  toS5
+fromS1 0.925 0.028 0.047 0.000 0.000
+fromS2 0.004 0.996 0.000 0.000 0.000
+fromS3 0.048 0.000 0.904 0.048 0.000
+fromS4 0.000 0.000 0.068 0.878 0.054
+fromS5 0.000 0.000 0.000 0.033 0.967
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.120  0.005
+St2           0.072  0.021
+St3           0.133  0.003
+St4           0.146  0.006
+St5           0.171  0.009
+converged at iteration 55 with logLik: 2893.038 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 pr5 
+  0   0   0   1   0 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4  toS5
+fromS1 0.935 0.000 0.000 0.025 0.040
+fromS2 0.000 0.983 0.017 0.000 0.000
+fromS3 0.000 0.043 0.913 0.000 0.043
+fromS4 0.022 0.000 0.000 0.978 0.000
+fromS5 0.046 0.000 0.033 0.000 0.921
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.107  0.006
+St2           0.058  0.007
+St3           0.080  0.004
+St4           0.152  0.026
+St5           0.092  0.003
+converged at iteration 51 with logLik: 2346.712 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 pr5 
+  0   0   1   0   0 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4  toS5
+fromS1 0.989 0.000 0.000 0.000 0.011
+fromS2 0.000 0.925 0.037 0.000 0.037
+fromS3 0.000 0.034 0.944 0.023 0.000
+fromS4 0.000 0.000 0.047 0.953 0.000
+fromS5 0.025 0.031 0.000 0.000 0.944
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.296  0.075
+St2           0.144  0.007
+St3           0.122  0.006
+St4           0.103  0.010
+St5           0.176  0.012
+converged at iteration 37 with logLik: 1695.308 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 pr5 
+  0   1   0   0   0 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4  toS5
+fromS1 0.982 0.000 0.000 0.018 0.000
+fromS2 0.000 0.988 0.012 0.000 0.000
+fromS3 0.000 0.008 0.975 0.000 0.017
+fromS4 0.027 0.000 0.000 0.946 0.027
+fromS5 0.000 0.000 0.030 0.023 0.947
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.101  0.014
+St2           0.517  0.208
+St3           0.255  0.027
+St4           0.146  0.011
+St5           0.187  0.011
+converged at iteration 76 with logLik: 2360.015 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 pr5 
+  0   1   0   0   0 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4  toS5
+fromS1 0.936 0.028 0.036 0.000 0.000
+fromS2 0.032 0.942 0.000 0.026 0.000
+fromS3 0.027 0.000 0.947 0.000 0.027
+fromS4 0.000 0.015 0.000 0.985 0.000
+fromS5 0.000 0.000 0.016 0.000 0.984
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.162  0.007
+St2           0.199  0.013
+St3           0.139  0.006
+St4           0.277  0.046
+St5           0.102  0.016
+converged at iteration 54 with logLik: 2605.17 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 pr5 
+  1   0   0   0   0 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4  toS5
+fromS1 0.974 0.000 0.026 0.000 0.000
+fromS2 0.000 0.956 0.000 0.022 0.022
+fromS3 0.013 0.000 0.960 0.027 0.000
+fromS4 0.000 0.023 0.028 0.949 0.000
+fromS5 0.000 0.010 0.000 0.000 0.990
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.194  0.036
+St2           0.064  0.004
+St3           0.118  0.013
+St4           0.083  0.007
+St5           0.032  0.015
+converged at iteration 89 with logLik: 2515.072 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 pr5 
+  0   0   1   0   0 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4  toS5
+fromS1 0.970 0.011 0.000 0.000 0.019
+fromS2 0.012 0.988 0.000 0.000 0.000
+fromS3 0.000 0.000 0.967 0.033 0.000
+fromS4 0.000 0.000 0.018 0.947 0.035
+fromS5 0.024 0.000 0.000 0.012 0.965
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.097  0.011
+St2           0.051  0.015
+St3           0.239  0.023
+St4           0.185  0.012
+St5           0.141  0.014
+converged at iteration 27 with logLik: 2859 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 pr5 
+  0   0   0   0   1 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4  toS5
+fromS1 0.970 0.017 0.000 0.000 0.013
+fromS2 0.015 0.985 0.000 0.000 0.000
+fromS3 0.000 0.000 0.982 0.018 0.000
+fromS4 0.000 0.000 0.015 0.956 0.029
+fromS5 0.027 0.000 0.000 0.027 0.946
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.130  0.006
+St2           0.100  0.011
+St3           0.237  0.026
+St4           0.177  0.009
+St5           0.150  0.006
+converged at iteration 58 with logLik: 2205.01 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 pr5 
+  0   0   0   0   1 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4  toS5
+fromS1 0.912 0.049 0.000 0.038 0.000
+fromS2 0.041 0.925 0.034 0.000 0.000
+fromS3 0.000 0.028 0.953 0.000 0.018
+fromS4 0.027 0.000 0.000 0.973 0.000
+fromS5 0.000 0.000 0.016 0.000 0.984
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.130  0.006
+St2           0.154  0.008
+St3           0.184  0.012
+St4           0.097  0.013
+St5           0.275  0.057
+converged at iteration 53 with logLik: 2039.14 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 pr5 
+  0   0   0   1   0 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4  toS5
+fromS1 0.946 0.000 0.044 0.000 0.011
+fromS2 0.000 0.985 0.000 0.015 0.000
+fromS3 0.023 0.000 0.955 0.022 0.000
+fromS4 0.000 0.014 0.014 0.972 0.000
+fromS5 0.016 0.000 0.000 0.000 0.984
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.139  0.010
+St2           0.360  0.089
+St3           0.173  0.012
+St4           0.218  0.015
+St5           0.095  0.009
+converged at iteration 51 with logLik: 3207.953 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 pr5 
+  0   0   0   1   0 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4  toS5
+fromS1 0.963 0.021 0.000 0.016 0.000
+fromS2 0.019 0.947 0.034 0.000 0.000
+fromS3 0.000 0.028 0.958 0.000 0.014
+fromS4 0.031 0.000 0.000 0.969 0.000
+fromS5 0.000 0.000 0.016 0.000 0.984
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.054  0.004
+St2           0.068  0.004
+St3           0.085  0.006
+St4           0.038  0.007
+St5           0.115  0.010
+converged at iteration 31 with logLik: 2771.348 
+Initial state probabilities model 
+pr1 pr2 pr3 pr4 pr5 
+  0   0   0   0   1 
+
+Transition matrix 
+        toS1  toS2  toS3  toS4  toS5
+fromS1 0.939 0.000 0.027 0.000 0.034
+fromS2 0.000 0.976 0.024 0.000 0.000
+fromS3 0.018 0.018 0.963 0.000 0.000
+fromS4 0.000 0.000 0.000 0.975 0.025
+fromS5 0.036 0.000 0.000 0.030 0.934
+
+Response parameters 
+Resp 1 : gaussian 
+    Re1.(Intercept) Re1.sd
+St1           0.122  0.007
+St2           0.053  0.013
+St3           0.093  0.009
+St4           0.177  0.016
+St5           0.143  0.006
+      hmm_m2    hmm_m3    hmm_m4    hmm_m5
+1  -2986.943 -3523.785 -4008.146 -4475.403
+2  -2378.625 -3332.910 -3627.352 -4010.841
+3  -2858.666 -3237.210 -4007.814 -4500.522
+4  -3559.879 -4233.308 -4589.434 -4892.005
+5  -2404.077 -3184.043 -3478.636 -4078.794
+6  -3294.356 -3752.284 -4262.729 -4442.018
+7  -2437.613 -3294.201 -3794.033 -3981.578
+8  -3130.358 -3865.104 -4351.121 -4705.211
+9  -3604.643 -4260.793 -4670.353 -4923.703
+10 -2421.323 -3101.903 -3626.257 -3857.918
+11 -3604.285 -4221.753 -4682.702 -5098.291
+12 -3599.301 -4034.294 -4743.379 -4951.165
+13 -3411.826 -3882.131 -4555.273 -4806.623
+14 -4342.736 -4890.318 -5424.038 -5246.666
+15 -4244.035 -5048.500 -5362.437 -5718.076
+16 -3345.784 -4014.112 -4379.751 -4625.424
+17 -1734.969 -2548.772 -3041.009 -3322.616
+18 -3288.350 -3758.731 -4329.595 -4652.030
+19 -3542.478 -4190.531 -4773.089 -5142.340
+20 -3513.004 -4108.437 -4723.756 -4962.143
+21 -4033.549 -4793.116 -5253.132 -5650.001
+22 -3129.054 -3749.556 -4105.047 -4342.020
+23 -2643.040 -3393.007 -3801.766 -4010.280
+24 -4917.971 -5611.147 -5960.703 -6347.905
+25 -4067.534 -4633.220 -5134.760 -5474.695
+      hmm_m2    hmm_m3    hmm_m4    hmm_m5
+1  -2986.943 -3523.785 -4008.146 -4475.403
+2  -2378.625 -3332.910 -3627.352 -4010.841
+3  -2858.666 -3237.210 -4007.814 -4500.522
+4  -3559.879 -4233.308 -4589.434 -4892.005
+5  -2404.077 -3184.043 -3478.636 -4078.794
+6  -3294.356 -3752.284 -4262.729 -4442.018
+7  -2437.613 -3294.201 -3794.033 -3981.578
+8  -3130.358 -3865.104 -4351.121 -4705.211
+9  -3604.643 -4260.793 -4670.353 -4923.703
+10 -2421.323 -3101.903 -3626.257 -3857.918
+11 -3604.285 -4221.753 -4682.702 -5098.291
+12 -3599.301 -4034.294 -4743.379 -4951.165
+13 -3411.826 -3882.131 -4555.273 -4806.623
+14 -4342.736 -4890.318 -5424.038 -5246.666
+15 -4244.035 -5048.500 -5362.437 -5718.076
+16 -3345.784 -4014.112 -4379.751 -4625.424
+17 -1734.969 -2548.772 -3041.009 -3322.616
+18 -3288.350 -3758.731 -4329.595 -4652.030
+19 -3542.478 -4190.531 -4773.089 -5142.340
+20 -3513.004 -4108.437 -4723.756 -4962.143
+21 -4033.549 -4793.116 -5253.132 -5650.001
+22 -3129.054 -3749.556 -4105.047 -4342.020
+23 -2643.040 -3393.007 -3801.766 -4010.280
+24 -4917.971 -5611.147 -5960.703 -6347.905
+25 -4067.534 -4633.220 -5134.760 -5474.695
